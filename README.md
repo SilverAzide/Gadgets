@@ -1,1 +1,130 @@
-"# Gadgets" 
+![](Documents/GadgetsMain.png)
+# Gadgets
+Arguably, some of the best and most popular Vista and Windows 7 Gadgets for system monitoring were done by AddGadgets.com. Unfortunately, with the deprecation of the Gadget platform and outright banning of gadgets by some corporate policies, these gadgets have become obsolete. Gadgets aren't supported in Windows 8 or Windows 10 without hacks and workarounds and often they break after applying Windows Updates.
+
+I've searched everywhere to find equivalent gadgets, and finally found one on the Rainmeter forums, the "All CPU Meter" skin, by James Musix. The skin never made it out of beta, so I've completed his original work and expanded the suite to include a number of the most widely used AddGadgets.com gadgets.
+
+## Features
+**All CPU Meter**
+* Displays CPU utilization for 1 to 64 logical cores.
+* Displays processor model and clock speed.
+* Shows used, free, and total RAM available.
+* Shows used, free, and total page file available (optional).
+* Shows core temperatures (optional, requires [CoreTemp](http://www.alcpu.com/CoreTemp/), [SpeedFan](http://www.almico.com/speedfan.php), or [HWiNFO](http://www.hwinfo.com); more info [here](https://comments.deviantart.com/1/522574269/4563575092).
+* Shows CPU fan speed (optional, requires [SpeedFan](http://www.almico.com/speedfan.php) or [HWiNFO](http://www.hwinfo.com); more info [here](https://comments.deviantart.com/1/522574269/4563579130).**\***
+* Displays graphical line chart of CPU utilization, with RAM and page file percent usage.
+* Shows Task Manager when gadget is double-clicked.
+* Scales to any desired size.
+
+**Drives Meter**
+* Displays disk information for up to 26 physical drives (fixed and removable only). Gadget dynamically adjusts to handle adding and removing drives.
+* Shows used, free, and total disk space available.
+* Displays percent disk utilization for each drive, plus the total.
+* Shows throughput for each drive (read and write).
+* Shows total bytes read/written since bootup for each drive on mouseover (optional).**\***
+* Displays disk throughput graph.
+* Displays disk time percentage histogram (optional).
+* Drive space bar graph changes color when disks are nearing capacity.**\***
+* Shows Explorer when gadget is double-clicked.
+* Opens drive in Explorer (or runs any user-defined command) when disk label is clicked.**\***
+* Scales to any desired size.
+
+**Network Meter**
+* Shows data for all or selected network interfaces ([info](https://comments.deviantart.com/1/522574269/4563570629)).
+* Displays internal and external IP addresses (optional).
+* Displays peak network throughput.**\***
+* Shows inbound and outbound throughput in bits/sec and bytes/sec.
+* Displays graphical chart of inbound and outbound network activity. Does not require guesstimating your network speed, chart dynamically scales to handle both LAN and WAN traffic.
+* Shows statistics for the current session and the total to date (optional).
+* Indicates internet connectivity.
+* Animated network icon shows network activity (in/out/both/neither/disconnected).**\***
+* Performs external IP address and location lookup.
+* Shows Network and Sharing Center when gadget is double-clicked.
+* Includes dedicated Wireless Network gadget for monitoring wireless activity.
+* Scales to any desired size.
+
+**Network Meter Pro**<br>
+A precision network monitor with all the features of Network Meter, plus:
+* More accurate network interface statistics monitoring, including data when Rainmeter is not running or no user is logged into the system.
+* Not affected by Rainmeter restarts/refreshes.
+* Not affected by network adapter configuration changes.
+* Includes dedicated Wireless Network Pro gadget for monitoring wireless activity.
+Note: Requires installation of a Windows service (included).
+
+**GPU Meter**
+* Displays GPU model and clock speed (requires [HWiNFO](http://www.hwinfo.com); more info [here](https://comments.deviantart.com/1/522574269/4563605611)).
+* Shows used, free, and total RAM available, with memory clock speed.
+* Shows GPU temperature, core load, and core voltage.
+* Shows GPU fan speed and percent utilization.
+* Displays graphical line chart of RAM, core load, temperature, and fan usage.
+* Multiple GPU Meters provided to allow monitoring more than one GPU (for dedicated GPUs and 2-way SLI-equipped systems; for 4-way SLI systems, see [this](https://comments.deviantart.com/1/522574269/4563592085).**\***
+* Scales to any desired size.
+
+**Weather Meter**
+* Displays the current weather for any location from [The Weather Channel](http://www.weather.com/). _Does NOT use the deprecated Wxdata feed_.
+* Displays data in metric or standard units.
+* Shows current temperature, forecast high and low temperatures, "feels like" temperature, current conditions, current location and station, humidity, visibility, barometric pressure, wind speed, wind direction, and chance of precipitation.
+* Shows current sunrise and sunset times, day length, and sun angle.
+* Shows current moonrise and moonset times, moon phase and description, and moon angle.
+* Shows complete 5 day forecast in a "flyout" window.
+* Shows "Next 36 Hours" forecast in a "flyout" window.
+* Shows severe weather alerts for the current location.**\***
+* Opens Google Maps for the observation location when location name is clicked.**\***
+* Includes additional language translations: Bulgarian, Czech, English (GB), English (US), Finnish, French, German, Hebrew, Hungarian, Italian, Polish, Portuguese (BR), Russian, Serbian (SP), Slovak, Spanish (SP), Swedish, Ukrainian ([info](https://www.deviantart.com/comments/1/522574269/4820186084), source [here](http://fav.me/d2ylush)).
+* Supports having multiple Weather Meters to allow monitoring more than one location ([info](https://comments.deviantart.com/1/522574269/4563589522)).
+* Scales to any desired size.
+* Includes variant gadget in a smaller size; expands to full size on mouseover.
+
+**Battery Meter**
+* Displays the current battery status, including time remaining and current percentage remaining.
+* Shows current voltage, charge and discharge rates, current and maximum charge capacity.
+* Shows battery manufacturer/model.
+* Displays power in either watts or milliamps.
+* Supports automatic failover on systems having multiple batteries.**\***
+* Shows Power Options when gadget is double-clicked.**\***
+* Scales to any desired size.
+* Includes variant gadget that works with [HWiNFO](http://www.hwinfo.com).
+
+**Calendar**
+* Based on [LuaCalendar](https://smurfier.github.io/LuaCalendar/), styled to match the Gadget suite.**\***
+* Supports localized month/day names automatically.
+* Scales to any desired size.
+* Includes variant gadget that shows the current day, similar to the original Windows Sidebar gadget.
+
+**Chronometer**
+* Digital Clock displays time, date, day, week, and quarter of the year.
+* Shows computer uptime and session logon time (optional).
+* Shows event countdown with customizable sound (optional).
+* Includes configurable chime and multiple alarms with customizable sounds (optional).
+* Supports Windows localized or custom time and date formats.
+* Supports world times, can be adjusted for time zones and daylight saving time.**\***
+* Supports having multiple clocks to allow monitoring time in multiple locations ([info](https://comments.deviantart.com/1/522574269/4563592689)).
+* Scales to any desired size.
+* Includes Analog Clock variant, styled to match the Gadget suite.**\***
+* Includes analog clocks ported from the original Windows Vista/Windows 7 Sidebar gadgets.
+
+**...get even more Gadgets!\***
+* [Clipboard Meter](http://fav.me/dbptttz)
+* [Stopwatch](http://fav.me/dbwxqn8)
+* [Top Process Meter](http://fav.me/dca2ufe)
+
+**\*** Feature not part of original AddGadgets.com gadgets.
+
+## Requirements
+Rainmeter 4.3.1 or later: https://www.rainmeter.net<br>
+.NET Framework 4.5.2 or later.
+
+### Optional
+CPU Meter can use [HWiNFO](https://www.hwinfo.com), [CoreTemp](https://www.alcpu.com/CoreTemp/) or [SpeedFan](http://www.almico.com/speedfan.php) to report temperatures and fan speed.<br>
+GPU Meter requires [HWiNFO](https://www.hwinfo.com).<br>
+Battery Meter can use [HWiNFO](https://www.hwinfo.com).
+
+## Attribution
+* All CPU Meter gadget based on [All CPU Meter](http://rainmeter.net/forum/viewtopic.php?f=27&t=18381&p=101504) by James Musix.
+* Calendar gadget is [LuaCalendar 5.0](http://fav.me/d4n57jh) by Smurfier, with scaling enhancement added by [TGonZ0](http://tgonz0.deviantart.com/), with localization and style mods by me.
+* Clock gadget uses techniques from the System skin in [JSMeterVIII 8.0](https://forum.rainmeter.net/viewtopic.php?f=27&t=25130&p=133812&hilit=JSMeter#p132324) by [JSMorley](https://www.deviantart.com/jsmorley).
+* Network Meter gadget based on [NetTraffic](https://docs.rainmeter.net/tips/network-skin) by JSMorley.
+* Weather Meter gadget uses the [Weather.com](https://forum.rainmeter.net/viewtopic.php?f=27&t=34734) JSON include templates by JSMorley, translations from [VClouds Weather 2](http://fav.me/d2ylush) by VClouds, and includes weather icons by JSMorley (and others) with modifications by me.
+* Weather Meter gadget uses a Lua script from [Sunset-Moonrise](http://fav.me/d5ybxqr) by Mordasius to calculate sun/moon times.
+* Welcome gadget uses the [ConfigActive](https://forum.rainmeter.net/viewtopic.php?f=18&t=28720) plugin by JSMorley.
+* Additional code cleanup and tweaks by Milamber33.
