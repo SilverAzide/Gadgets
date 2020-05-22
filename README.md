@@ -1,4 +1,4 @@
-![](Documents/GadgetsMain.png)
+![](Images/GadgetsMain.png)
 # Gadgets
 Arguably, some of the best and most popular Vista and Windows 7 Gadgets for system monitoring were done by AddGadgets.com. Unfortunately, with the deprecation of the Gadget platform and outright banning of gadgets by some corporate policies, these gadgets have become obsolete. Gadgets aren't supported in Windows 8 or Windows 10 without hacks and workarounds and often they break after applying Windows Updates.
 
@@ -111,13 +111,13 @@ Note: Requires installation of a Windows service (included).
 **\*** Feature not part of original AddGadgets.com gadgets.
 
 ## Requirements
-Rainmeter 4.3.1 or later: https://www.rainmeter.net<br>
+Rainmeter 4.3.1 or later: <https://www.rainmeter.net>.<br>
 .NET Framework 4.5.2 or later.
 
-### Optional
-CPU Meter can use [HWiNFO](https://www.hwinfo.com), [CoreTemp](https://www.alcpu.com/CoreTemp/) or [SpeedFan](http://www.almico.com/speedfan.php) to report temperatures and fan speed.<br>
+**Optional**<br>
+CPU Meter can use either [HWiNFO](https://www.hwinfo.com), [CoreTemp](https://www.alcpu.com/CoreTemp/) or [SpeedFan](http://www.almico.com/speedfan.php) to report temperatures and/or fan speeds.<br>
 GPU Meter requires [HWiNFO](https://www.hwinfo.com).<br>
-Battery Meter can use [HWiNFO](https://www.hwinfo.com).
+Battery Meter can use either native Rainmeter plugins or [HWiNFO](https://www.hwinfo.com).
 
 ## Attribution
 * All CPU Meter gadget based on [All CPU Meter](http://rainmeter.net/forum/viewtopic.php?f=27&t=18381&p=101504) by James Musix.
