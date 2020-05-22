@@ -11,8 +11,8 @@ I've searched everywhere to find equivalent gadgets, and finally found one on th
 * Displays processor model and clock speed.
 * Shows used, free, and total RAM available.
 * Shows used, free, and total page file available (optional).
-* Shows core temperatures (optional, requires [CoreTemp](http://www.alcpu.com/CoreTemp/), [SpeedFan](http://www.almico.com/speedfan.php), or [HWiNFO](http://www.hwinfo.com); more info [here](https://comments.deviantart.com/1/522574269/4563575092).
-* Shows CPU fan speed (optional, requires [SpeedFan](http://www.almico.com/speedfan.php) or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-core-temperatures.md).**\***
+* Shows core temperatures (optional, requires [CoreTemp](http://www.alcpu.com/CoreTemp/), [SpeedFan](http://www.almico.com/speedfan.php), or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-core-temperatures).
+* Shows CPU fan speed (optional, requires [SpeedFan](http://www.almico.com/speedfan.php) or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-fan-usage).**\***
 * Displays graphical line chart of CPU utilization, with RAM and page file percent usage.
 * Shows Task Manager when gadget is double-clicked.
 * Scales to any desired size.
@@ -31,7 +31,7 @@ I've searched everywhere to find equivalent gadgets, and finally found one on th
 * Scales to any desired size.
 
 **Network Meter**
-* Shows data for all or selected network interfaces ([info](https://github.com/SilverAzide/Gadgets/wiki/INFO-Network-statistics-monitoring.md)).
+* Shows data for all or selected network interfaces ([info](https://github.com/SilverAzide/Gadgets/wiki/INFO-Network-statistics-monitoring)).
 * Displays internal and external IP addresses (optional).
 * Displays peak network throughput.**\***
 * Shows inbound and outbound throughput in bits/sec and bytes/sec.
@@ -53,12 +53,12 @@ A precision network monitor with all the features of Network Meter, plus:
 Note: Requires installation of a Windows service (included).
 
 **GPU Meter**
-* Displays GPU model and clock speed (requires [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-GPU-Meter.md)).
+* Displays GPU model and clock speed (requires [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-GPU-Meter)).
 * Shows used, free, and total RAM available, with memory clock speed.
 * Shows GPU temperature, core load, and core voltage.
 * Shows GPU fan speed and percent utilization.
 * Displays graphical line chart of RAM, core load, temperature, and fan usage.
-* Multiple GPU Meters provided to allow monitoring more than one GPU (for dedicated GPUs and 2-way SLI-equipped systems; for 4-way SLI systems, see [this](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-GPU-Meter-to-monitor-multiple-GPUs.md).**\***
+* Multiple GPU Meters provided to allow monitoring more than one GPU (for dedicated GPUs and 2-way SLI-equipped systems; for 4-way SLI systems, see [this](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-GPU-Meter-to-monitor-multiple-GPUs).**\***
 * Scales to any desired size.
 
 **Weather Meter**
@@ -71,8 +71,8 @@ Note: Requires installation of a Windows service (included).
 * Shows "Next 36 Hours" forecast in a "flyout" window.
 * Shows severe weather alerts for the current location.**\***
 * Opens Google Maps for the observation location when location name is clicked.**\***
-* Includes additional language translations: Bulgarian, Czech, English (GB), English (US), Finnish, French, German, Hebrew, Hungarian, Italian, Polish, Portuguese (BR), Russian, Serbian (SP), Slovak, Spanish (SP), Swedish, Ukrainian ([info](HOW-TO-Change-the-default-language-or-temperature-units-of-the-Weather-Meter.md), source [here](http://fav.me/d2ylush)).
-* Supports having multiple Weather Meters to allow monitoring more than one location ([info](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-Weather-Meter-to-show-multiple-locations.md)).
+* Includes additional language translations: Bulgarian, Czech, English (GB), English (US), Finnish, French, German, Hebrew, Hungarian, Italian, Polish, Portuguese (BR), Russian, Serbian (SP), Slovak, Spanish (SP), Swedish, Ukrainian ([info](HOW-TO-Change-the-default-language-or-temperature-units-of-the-Weather-Meter), source [here](http://fav.me/d2ylush)).
+* Supports having multiple Weather Meters to allow monitoring more than one location ([info](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-Weather-Meter-to-show-multiple-locations)).
 * Scales to any desired size.
 * Includes variant gadget in a smaller size; expands to full size on mouseover.
 
@@ -99,7 +99,7 @@ Note: Requires installation of a Windows service (included).
 * Includes configurable chime and multiple alarms with customizable sounds (optional).
 * Supports Windows localized or custom time and date formats.
 * Supports world times, can be adjusted for time zones and daylight saving time.**\***
-* Supports having multiple clocks to allow monitoring time in multiple locations ([info](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Create-multiple-Chronometers.md)).
+* Supports having multiple clocks to allow monitoring time in multiple locations ([info](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Create-multiple-Chronometers)).
 * Scales to any desired size.
 * Includes Analog Clock variant, styled to match the Gadget suite.**\***
 * Includes analog clocks ported from the original Windows Vista/Windows 7 Sidebar gadgets.
