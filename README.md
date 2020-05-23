@@ -130,3 +130,6 @@ Battery Meter can use either native Rainmeter plugins or [HWiNFO](https://www.hw
 * Weather Meter gadget uses a Lua script from [Sunset-Moonrise](http://fav.me/d5ybxqr) by Mordasius to calculate sun/moon times.
 * Welcome gadget uses the [ConfigActive](https://forum.rainmeter.net/viewtopic.php?f=18&t=28720) plugin by JSMorley.
 * Additional code cleanup and tweaks by Milamber33.
+
+## License
+Creative Commons Attribution-Noncommercial-Share Alike 3.0 License
