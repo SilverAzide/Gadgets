@@ -51,7 +51,7 @@ A precision network monitor with all the features of Network Meter, plus:
 * Not affected by Rainmeter restarts/refreshes.
 * Not affected by network adapter configuration changes.
 * Includes dedicated Wireless Network Pro gadget for monitoring wireless activity.
-Note: Requires installation of a Windows service (included).
+* Note: Requires installation of a Windows service (included).
 
 **GPU Meter**
 * Displays GPU model and clock speed (requires [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-GPU-Meter#how-to-configure-the-gpu-meter)).
