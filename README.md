@@ -106,9 +106,9 @@ A precision network monitor with all the features of Network Meter, plus:
 * Includes analog clocks ported from the original Windows Vista/Windows 7 Sidebar gadgets.
 
 **...get even more Gadgets!\***
-* [Clipboard Meter](http://fav.me/dbptttz)
-* [Stopwatch](http://fav.me/dbwxqn8)
-* [Top Process Meter](http://fav.me/dca2ufe)
+* [Clipboard Meter](https://github.com/SilverAzide/Clipboard-Meter)
+* [Stopwatch](https://github.com/SilverAzide/Stopwatch)
+* [Top Process Meter](https://github.com/SilverAzide/Top-Process-Meter)
 
 **\*** Feature not part of original AddGadgets.com gadgets.
 
