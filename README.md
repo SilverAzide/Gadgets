@@ -64,12 +64,11 @@ A precision network monitor with all the features of Network Meter, plus:
 
 **Weather Meter**
 * Displays the current weather for any location from [The Weather Channel](http://www.weather.com/). _Does NOT use the deprecated Wxdata feed_.
-* Displays data in metric or standard units.
+* Displays data in metric or imperial units.
 * Shows current temperature, forecast high and low temperatures, "feels like" temperature, current conditions, current location and station, humidity, visibility, barometric pressure, wind speed, wind direction, and chance of precipitation.
 * Shows current sunrise and sunset times, day length, and sun angle.
 * Shows current moonrise and moonset times, moon phase and description, and moon angle.
 * Shows complete 5 day forecast in a "flyout" window.
-* Shows "Next 36 Hours" forecast in a "flyout" window.
 * Shows severe weather alerts for the current location.**\***
 * Opens Google Maps for the observation location when location name is clicked.**\***
 * Includes additional language translations: Bulgarian, Czech, English (GB), English (US), Finnish, French, German, Hebrew, Hungarian, Italian, Polish, Portuguese (BR), Russian, Serbian (SP), Slovak, Spanish (SP), Swedish, Ukrainian ([info](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Change-the-default-language-or-temperature-units-of-the-Weather-Meter#how-to-change-the-default-language-or-temperature-units-of-the-weather-meter), source [here](http://fav.me/d2ylush)).
