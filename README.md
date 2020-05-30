@@ -108,6 +108,7 @@ A precision network monitor with all the features of Network Meter, plus:
 * [Clipboard Meter](https://github.com/SilverAzide/Clipboard-Meter)
 * [Stopwatch](https://github.com/SilverAzide/Stopwatch)
 * [Top Process Meter](https://github.com/SilverAzide/Top-Process-Meter)
+* [Weather Meter for Yahoo](https://github.com/SilverAzide/Weather-Meter-Yahoo)
 
 **\*** Feature not part of original AddGadgets.com gadgets.
 
