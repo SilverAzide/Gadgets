@@ -126,7 +126,7 @@ Battery Meter can use either native Rainmeter plugins or [HWiNFO](https://www.hw
 * Calendar gadget is [LuaCalendar 5.0](http://fav.me/d4n57jh) by Smurfier, with scaling enhancement added by [TGonZ0](http://tgonz0.deviantart.com/), with localization and style mods by me.
 * Clock gadget uses techniques from the System skin in [JSMeterVIII 8.0](https://forum.rainmeter.net/viewtopic.php?f=27&t=25130&p=133812&hilit=JSMeter#p132324) by [JSMorley](https://www.deviantart.com/jsmorley).
 * Network Meter gadget based on [NetTraffic](https://docs.rainmeter.net/tips/network-skin) by JSMorley.
-* Weather Meter gadget uses the [Weather.com](https://forum.rainmeter.net/viewtopic.php?f=27&t=34734) JSON include templates by JSMorley, translations from [VClouds Weather 2](http://fav.me/d2ylush) by VClouds, and includes weather icons by JSMorley (and others) with modifications by me.
+* Weather Meter gadget uses the [Weather.com](https://forum.rainmeter.net/viewtopic.php?f=27&t=34734) JSON V3 include templates by JSMorley/OnyxBlack/Xenium/SilverAzide, and includes translations from [VClouds Weather 2](http://fav.me/d2ylush) by VClouds, and includes weather icons by JSMorley (and others) with modifications by me.
 * Weather Meter gadget uses a Lua script from [Sunset-Moonrise](http://fav.me/d5ybxqr) by Mordasius to calculate sun/moon times.
 * Welcome gadget uses the [ConfigActive](https://forum.rainmeter.net/viewtopic.php?f=18&t=28720) plugin by JSMorley.
 * Additional code cleanup and tweaks by Milamber33.
