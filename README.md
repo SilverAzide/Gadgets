@@ -6,6 +6,8 @@ Arguably, some of the best and most popular Vista and Windows 7 Gadgets for syst
 
 I've searched everywhere to find equivalent gadgets, and finally found one on the Rainmeter forums, the "All CPU Meter" skin, by James Musix. The skin never made it out of beta, so I've completed his original work and expanded the suite to include a number of the most widely used AddGadgets.com gadgets.
 
+**[Download the latest version here (5.4.1)](https://github.com/SilverAzide/Gadgets/releases/download/v5.4.1/Gadgets_5.4.1.rmskin)**
+
 ## Features
 **All CPU Meter**
 * Displays CPU utilization for 1 to 64 logical cores.
