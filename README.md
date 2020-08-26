@@ -6,7 +6,7 @@ Arguably, some of the best and most popular Vista and Windows 7 Gadgets for syst
 
 I've searched everywhere to find equivalent gadgets, and finally found one on the Rainmeter forums, the "All CPU Meter" skin, by James Musix. The skin never made it out of beta, so I've completed his original work and expanded the suite to include a number of the most widely used AddGadgets.com gadgets.
 
-**[Download the latest version here (5.5.1)](https://github.com/SilverAzide/Gadgets/releases/download/v5.5.1/Gadgets_5.5.1.rmskin)**
+**[Download the latest version here (5.5.x)](https://github.com/SilverAzide/Gadgets/releases/download/v5.5.x/Gadgets_5.5.x.rmskin)**
 
 ## Features
 **All CPU Meter**
@@ -115,7 +115,7 @@ A precision network monitor with all the features of Network Meter, plus:
 **\*** Feature not part of original AddGadgets.com gadgets.
 
 ## Requirements
-Rainmeter 4.4.0 or later: <https://www.rainmeter.net>.<br>
+Rainmeter 4.4-r3404-beta or later: <https://www.rainmeter.net>.<br>
 .NET Framework 4.5.2 or later.
 
 **Optional**<br>
