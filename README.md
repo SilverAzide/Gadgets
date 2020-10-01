@@ -134,4 +134,4 @@ Battery Meter can use either native Rainmeter plugins or [HWiNFO](https://www.hw
 * Additional code cleanup and tweaks by Milamber33.
 
 ## License
-Creative Commons Attribution-Noncommercial-Share Alike 3.0 License
+Creative Common Attribution-Noncommercial-Share Alike 3.0 License
