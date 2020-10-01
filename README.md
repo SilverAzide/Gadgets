@@ -4,7 +4,7 @@
 
 Arguably, some of the best and most popular Vista and Windows 7 Gadgets for system monitoring were done by [AddGadgets.com](http://addgadgets.com/). Unfortunately, with the deprecation of the Gadget platform and outright banning of gadgets by some corporate policies, these gadgets have become obsolete. Gadgets aren't supported in Windows 8 or Windows 10 without hacks and workarounds and often they break after applying Windows Updates.
 
-I've searched everywhere to find equivalent gadgets, and finally found one on the Rainmeter forums, the "All CPU Meter" skin, by James Musix. The skin never made it out of beta, so I've completed his original work and expanded the suite to include a number of the most widely used AddGadgets.com gadgets.
+I've searched everywhere to find equivalent gadgets, and finally found one on the Rainmeter forums, the "All CPU Meter" skin, by user james31231. The skin never made it out of beta, so I've completed his original work and expanded the suite to include a number of the most widely used AddGadgets.com gadgets. For help and more, visit the Gadgets on the [Rainmeter Forums](https://forum.rainmeter.net/viewtopic.php?f=27&t=20699).
 
 **[Download the latest version here (5.5.x)](https://github.com/SilverAzide/Gadgets/releases/download/v5.5.x/Gadgets_5.5.x.rmskin)**
 
@@ -106,6 +106,9 @@ A precision network monitor with all the features of Network Meter, plus:
 * Includes Analog Clock variant, styled to match the Gadget suite.**\***
 * Includes analog clocks ported from the original Windows Vista/Windows 7 Sidebar gadgets.
 
+**Update Checker**
+* Automatically checks for and optionally installs new Gadgets releases (enable/disable from the Welcome gadget).
+
 **...get even more Gadgets!\***
 * [Clipboard Meter](https://github.com/SilverAzide/Clipboard-Meter)
 * [Stopwatch](https://github.com/SilverAzide/Stopwatch)
@@ -124,9 +127,9 @@ GPU Meter requires [HWiNFO](https://www.hwinfo.com).<br>
 Battery Meter can use either native Rainmeter plugins or [HWiNFO](https://www.hwinfo.com).
 
 ## Attribution
-* All CPU Meter gadget based on [All CPU Meter](http://rainmeter.net/forum/viewtopic.php?f=27&t=18381&p=101504) by James Musix.
+* All CPU Meter gadget based on [All CPU Meter](https://forum.rainmeter.net/viewtopic.php?f=27&t=18381) by james31231.
 * Calendar gadget is [LuaCalendar 5.0](http://fav.me/d4n57jh) by Smurfier, with scaling enhancement added by [TGonZ0](http://tgonz0.deviantart.com/), with localization and style mods by me.
-* Clock gadget uses techniques from the System skin in [JSMeterVIII 8.0](https://forum.rainmeter.net/viewtopic.php?f=27&t=25130&p=133812&hilit=JSMeter#p132324) by [JSMorley](https://www.deviantart.com/jsmorley).
+* Clock gadget uses techniques from the System skin in [JSMeterVIII 8.0](https://forum.rainmeter.net/viewtopic.php?f=27&t=25130) by [JSMorley](https://www.deviantart.com/jsmorley).
 * Network Meter gadget based on [NetTraffic](https://docs.rainmeter.net/tips/network-skin) by JSMorley.
 * Update Checker gadget based on [ModernGadgets](https://github.com/raiguard/ModernGadgets) Update Checker by raiguard.
 * Weather Meter gadget uses the [Weather.com](https://forum.rainmeter.net/viewtopic.php?f=27&t=34734) JSON V3 include templates by JSMorley, and includes translations from [VClouds Weather 2](http://fav.me/d2ylush) by VClouds, and includes weather icons by JSMorley (and others) with modifications by me.
