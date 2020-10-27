@@ -4,7 +4,7 @@
 
 Arguably, some of the best and most popular Vista and Windows 7 Gadgets for system monitoring were done by [AddGadgets.com](http://addgadgets.com/). Unfortunately, with the deprecation of the Gadget platform and outright banning of gadgets by some corporate policies, these gadgets have become obsolete. Gadgets aren't supported in Windows 8 or Windows 10 without hacks and workarounds and often they break after applying Windows Updates.
 
-I've searched everywhere to find equivalent gadgets, and finally found one on the Rainmeter forums, the "All CPU Meter" skin, by user james31231. The skin never made it out of beta, so I've completed his original work and expanded the suite to include a number of the most widely used AddGadgets.com gadgets. For help and more, visit the Gadgets on the [Rainmeter Forums](https://forum.rainmeter.net/viewtopic.php?f=27&t=20699).
+Rainmeter is a free, open-source application for Windows PCs. It is a platform that enables skins to run on the desktop. I've taken the most widely used AddGadgets.com gadgets and re-imagined them in a new suite of Rainmeter Gadgets. For help and more, visit the Gadgets on the [Rainmeter Forums](https://forum.rainmeter.net/viewtopic.php?f=27&t=20699).
 
 **[Download the latest version here (5.5.x)](https://github.com/SilverAzide/Gadgets/releases/download/v5.5.x/Gadgets_5.5.x.rmskin)**
 
