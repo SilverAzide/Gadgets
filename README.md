@@ -128,7 +128,7 @@ Battery Meter can use either native Rainmeter plugins or [HWiNFO](https://www.hw
 
 ## Attribution
 * All CPU Meter gadget based on [All CPU Meter](https://forum.rainmeter.net/viewtopic.php?f=27&t=18381) by james31231.
-* Calendar gadget is [LuaCalendar 5.0](http://fav.me/d4n57jh) by Smurfier, with scaling enhancement added by [TGonZ0](http://tgonz0.deviantart.com/), with localization and style mods by me.
+* Calendar gadget is [LuaCalendar 5.0](http://fav.me/d4n57jh) by Smurfier, with scaling enhancement added by [TGonZ0](https://www.deviantart.com/tgonz0/), with localization and style mods by me.
 * Clock gadget uses techniques from the System skin in [JSMeterVIII 8.0](https://forum.rainmeter.net/viewtopic.php?f=27&t=25130) by [JSMorley](https://www.deviantart.com/jsmorley).
 * Network Meter gadget based on [NetTraffic](https://docs.rainmeter.net/tips/network-skin) by JSMorley.
 * Update Checker gadget based on [ModernGadgets](https://github.com/raiguard/ModernGadgets) Update Checker by raiguard.
