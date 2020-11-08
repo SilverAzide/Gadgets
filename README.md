@@ -120,7 +120,7 @@ A precision network monitor with all the features of Network Meter, plus:
 **\*** Feature not part of original AddGadgets.com gadgets.
 
 ## Requirements
-Rainmeter 4.4-r3404-beta or later: <https://www.rainmeter.net>.<br>
+Rainmeter 4.4.0 or later: <https://www.rainmeter.net>.<br>
 .NET Framework 4.5.2 or later.
 
 **Optional**<br>
@@ -134,8 +134,10 @@ Battery Meter can use either native Rainmeter plugins or [HWiNFO](https://www.hw
 * Clock gadget uses techniques from the System skin in [JSMeterVIII 8.0](https://forum.rainmeter.net/viewtopic.php?f=27&t=25130) by [JSMorley](https://www.deviantart.com/jsmorley).
 * Network Meter gadget based on [NetTraffic](https://docs.rainmeter.net/tips/network-skin) by JSMorley.
 * Update Checker gadget based on [ModernGadgets](https://github.com/raiguard/ModernGadgets) Update Checker by raiguard.
-* Weather Meter gadget uses the [Weather.com](https://forum.rainmeter.net/viewtopic.php?f=27&t=34734) JSON V3 include templates by JSMorley, and includes translations from [VClouds Weather 2](http://fav.me/d2ylush) by VClouds, and includes weather icons by JSMorley (and others) with modifications by me.
-* Weather Meter gadget uses a Lua script from [Sunset-Moonrise](http://fav.me/d5ybxqr) by Mordasius to calculate sun/moon times.
+* Weather Meter gadget uses the [Weather.com](https://forum.rainmeter.net/viewtopic.php?f=27&t=34734) JSON V3 include templates by JSMorley
+* Weather Meter gadget includes translations from [VClouds Weather 2](http://fav.me/d2ylush) by VClouds.
+* Weather Meter gadget uses weather icons by JSMorley (and others) with modifications by me.
+* Weather Meter gadget uses a Lua script from [Sunset-Moonrise](http://fav.me/d5ybxqr) by Mordasius to calculate sun/moon times, with moon position/illumination code from [ModernGadgets](https://github.com/raiguard/ModernGadgets) by raiguard with [tweaks by Mordasius](https://forum.rainmeter.net/viewtopic.php?f=5&t=35896&start=30#p182152) and me.
 * Welcome gadget uses the [ConfigActive](https://forum.rainmeter.net/viewtopic.php?f=18&t=28720) plugin by JSMorley.
 * Additional code cleanup and tweaks by Milamber33.
 
