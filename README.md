@@ -72,6 +72,7 @@ A precision network monitor with all the features of Network Meter, plus:
 * Shows current temperature, forecast high and low temperatures, "feels like" temperature, current conditions, current location and station, humidity, visibility, barometric pressure, wind speed, wind direction, and chance of precipitation.
 * Shows current sunrise and sunset times, day length, and sun angle.
 * Shows current moonrise and moonset times, moon phase and description, and moon angle.
+* Shows moon zenith angle (tilt) and percentage illumination.**\***
 * Shows complete 5 day forecast in a "flyout" window.
 * Shows severe weather alerts for the current location.**\***
 * Opens weather radar map for the observation location when location name is clicked.**\***
