@@ -70,8 +70,8 @@ A precision network monitor with all the features of Network Meter, plus:
 * Displays the current weather for any location from [The Weather Channel](http://www.weather.com/). _Does NOT use the deprecated Wxdata feed_.
 * Displays data in metric or imperial units.
 * Shows current temperature, forecast high and low temperatures, "feels like" temperature, current conditions, current location and station, humidity, visibility, barometric pressure, wind speed, wind direction, and chance of precipitation.
-* Shows current sunrise and sunset times, day length, and sun angle.
-* Shows current moonrise and moonset times, moon phase and description, and moon angle.
+* Shows current sunrise and sunset times, day length, and sun dial.
+* Shows current moonrise and moonset times, moon phase and description, and moon dial.
 * Shows moon zenith angle (tilt) and percentage illumination.**\***
 * Shows complete 5 day forecast in a "flyout" window.
 * Shows severe weather alerts for the current location.**\***
