@@ -140,6 +140,7 @@ Battery Meter can use either native Rainmeter plugins or [HWiNFO](https://www.hw
 * Weather Meter gadget uses weather icons by JSMorley (and others) with modifications by me.
 * Weather Meter gadget uses a Lua script from [Sunset-Moonrise](http://fav.me/d5ybxqr) by Mordasius to calculate sun/moon times, with moon position/illumination code from [ModernGadgets](https://github.com/raiguard/ModernGadgets) by raiguard with [tweaks by Mordasius](https://forum.rainmeter.net/viewtopic.php?f=5&t=35896&start=30#p182152) and me.
 * Welcome gadget uses the [ConfigActive](https://forum.rainmeter.net/viewtopic.php?f=18&t=28720) plugin by JSMorley.
+* Gadgets includes [ColorPickerPlus](https://github.com/raiguard/ColorPickerPlus) by raiguard, with mods by me.
 * Additional code cleanup and tweaks by Milamber33.
 
 ## License
