@@ -132,8 +132,7 @@ Battery Meter can use either native Rainmeter plugins or [HWiNFO](https://www.hw
 ## Attribution
 * All CPU Meter gadget based on [All CPU Meter](https://forum.rainmeter.net/viewtopic.php?f=27&t=18381) by james31231.
 * Calendar gadget is [LuaCalendar 5.0](http://fav.me/d4n57jh) by Smurfier, with scaling enhancement added by [TGonZ0](https://www.deviantart.com/tgonz0/), with localization and style mods by me.
-* Clock gadget uses techniques from the System skin in [JSMeterVIII 8.0](https://forum.rainmeter.net/viewtopic.php?f=27&t=25130) by [JSMorley](https://www.deviantart.com/jsmorley).
-* Network Meter gadget based on [NetTraffic](https://docs.rainmeter.net/tips/network-skin) by JSMorley.
+* Chronometer and Network Meter gadgets use techniques from the System and Network skins in [JSMeter10](https://github.com/jsmorley/JSMeter10) by JSMorley.
 * Update Checker gadget based on [ModernGadgets](https://github.com/raiguard/ModernGadgets) Update Checker by raiguard.
 * Weather Meter gadget uses the [Weather.com](https://forum.rainmeter.net/viewtopic.php?f=27&t=34734) JSON V3 include templates by JSMorley
 * Weather Meter gadget includes translations from [VClouds Weather 2](http://fav.me/d2ylush) by VClouds.
@@ -144,7 +143,7 @@ Battery Meter can use either native Rainmeter plugins or [HWiNFO](https://www.hw
 * Additional code cleanup and tweaks by Milamber33.
 
 ## License
-Creative Commons Attribution-Noncommercial-Share Alike 3.0 License
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
 ---
 [![GitHub All Releases](https://img.shields.io/github/downloads/SilverAzide/Gadgets/total?logo=github&color=blue&style=for-the-badge)](https://github.com/SilverAzide/Gadgets/releases)
