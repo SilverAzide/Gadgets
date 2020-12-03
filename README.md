@@ -9,7 +9,7 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 [![Click here to download](https://img.shields.io/github/v/release/SilverAzide/Gadgets?logo=github&label=Click%20here%20to%20download&color=blueviolet&style=for-the-badge)](https://github.com/SilverAzide/Gadgets/releases/download/v5.5.1/Gadgets_5.5.1.rmskin)
 
 ###### Get help on the Rainmeter forums
-[![Rainmeter Forum](https://img.shields.io/static/v1?label=Rainmeter%20Forum&message=Gadgets&colorA=f0f0f0&colorB=2a6e9b&style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAYAAADAvYV%2BAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAESwAABEsBbzH2CgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAH6SURBVCiRhdJPSJNhHAfw7%2FO8z%2Fu8%2F3w3bW05WVlr4XRzyw0iFRfF7FIepD8UQn9Mq8MWBnXpsPDapVuhyyKKqE4lHSoKqUPUwYQkgkqtiBAcCTU22db7dLFyueh3%2FPHh%2B%2BUHP6DCNCTS6yrt6d8LX%2FKyU2HSS39iqPm%2F2KXLF7aHvKajSr8BCPJPHDwx3GbT1c4z3TGpub62PnLq6qHKeM9tydS0a6ldW%2ByUEJze2W5yKp3bOHClehmOrM72tW7wOJs8TgCAw9Swvz1oU7g0WIajR4dkzthgfzxqLq3d1xbkFDgQOn7R9RtbVXJfrHGt7q4us1Bkhp6OsG7YjdQiFoQzluqPR8rlr1M2N3EI9PiS123Un0zH%2FHUOvlLnKH5%2BCuvbp2XpnWGfrEuFvUzjfNvWgLcm%2FyyFwtQdAAR8fRfUyACo4YY1%2FxaxBo8x9npmB5MAVZYoIbK2mCVQmBpFYfoeqOEGkRSwlhGACJXmiqWHD169n1eCvSDc9qdfWLCyX6C2JPB4ciaXzRdGpbkXdz%2Fooee77XaXK9RxmArLAmEq2KootNazmMh7xcjY%2BGwmI44QAAicvLTC5PxReE2tt3tTo72uxkTmew73J95ln7z5OJcrleKT53unlzyKIIFEusthMw5aQtRTgtmv2YVbysKPm%2BPDx4oA8BMJrI6FKL9sKAAAAABJRU5ErkJggg%3D%3D)](https://forum.rainmeter.net/viewtopic.php?f=27&t=20699)
+[![Rainmeter Forum](https://img.shields.io/static/v1?label=Rainmeter%20Forum&message=Gadgets&colorA=f0f0f0&colorB=2a6e9b&style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAYAAADAvYV%2BAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAESwAABEsBbzH2CgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAH6SURBVCiRhdJPSJNhHAfw7%2FO8z%2Fu8%2F3w3bW05WVlr4XRzyw0iFRfF7FIepD8UQn9Mq8MWBnXpsPDapVuhyyKKqE4lHSoKqUPUwYQkgkqtiBAcCTU22db7dLFyueh3%2FPHh%2B%2BUHP6DCNCTS6yrt6d8LX%2FKyU2HSS39iqPm%2F2KXLF7aHvKajSr8BCPJPHDwx3GbT1c4z3TGpub62PnLq6qHKeM9tydS0a6ldW%2ByUEJze2W5yKp3bOHClehmOrM72tW7wOJs8TgCAw9Swvz1oU7g0WIajR4dkzthgfzxqLq3d1xbkFDgQOn7R9RtbVXJfrHGt7q4us1Bkhp6OsG7YjdQiFoQzluqPR8rlr1M2N3EI9PiS123Un0zH%2FHUOvlLnKH5%2BCuvbp2XpnWGfrEuFvUzjfNvWgLcm%2FyyFwtQdAAR8fRfUyACo4YY1%2FxaxBo8x9npmB5MAVZYoIbK2mCVQmBpFYfoeqOEGkRSwlhGACJXmiqWHD169n1eCvSDc9qdfWLCyX6C2JPB4ciaXzRdGpbkXdz%2Fooee77XaXK9RxmArLAmEq2KootNazmMh7xcjY%2BGwmI44QAAicvLTC5PxReE2tt3tTo72uxkTmew73J95ln7z5OJcrleKT53unlzyKIIFEusthMw5aQtRTgtmv2YVbysKPm%2BPDx4oA8BMJrI6FKL9sKAAAAABJRU5ErkJggg%3D%3D)](https://forum.rainmeter.net/viewtopic.php?f=130&t=20699)
 
 ## Features
 **All CPU Meter**
@@ -134,13 +134,13 @@ Battery Meter can use either native Rainmeter plugins or [HWiNFO](https://www.hw
 * All CPU Meter gadget based on [All CPU Meter](https://forum.rainmeter.net/viewtopic.php?f=27&t=18381) by james31231.
 * Calendar gadget is [LuaCalendar 5.0](http://fav.me/d4n57jh) by Smurfier, with scaling enhancement added by [TGonZ0](https://www.deviantart.com/tgonz0/), with localization and style mods by me.
 * Chronometer and Network Meter gadgets use techniques from the System and Network skins in [JSMeter10](https://github.com/jsmorley/JSMeter10) by JSMorley.
-* Update Checker gadget based on [ModernGadgets](https://github.com/raiguard/ModernGadgets) Update Checker by raiguard.
+* Update Checker gadget based on [ModernGadgets](https://github.com/raiguard/ModernGadgets/#readme) Update Checker by raiguard.
 * Weather Meter gadget uses the [Weather.com](https://forum.rainmeter.net/viewtopic.php?f=27&t=34734) JSON V3 include templates by JSMorley
 * Weather Meter gadget includes translations from [VClouds Weather 2](http://fav.me/d2ylush) by VClouds.
 * Weather Meter gadget uses weather icons by JSMorley (and others) with modifications by me.
 * Weather Meter gadget uses a Lua script from [Sunset-Moonrise](http://fav.me/d5ybxqr) by Mordasius to calculate sun/moon times, with moon position/illumination code from [ModernGadgets](https://github.com/raiguard/ModernGadgets) by raiguard with [tweaks by Mordasius](https://forum.rainmeter.net/viewtopic.php?f=5&t=35896&start=30#p182152) and me.
 * Welcome gadget uses the [ConfigActive](https://forum.rainmeter.net/viewtopic.php?f=18&t=28720) plugin by JSMorley.
-* Gadgets includes [ColorPickerPlus](https://github.com/raiguard/ColorPickerPlus) by raiguard, with mods by me.
+* Gadgets includes [ColorPickerPlus](https://github.com/raiguard/ColorPickerPlus/#readme) by raiguard, with mods by me.
 * Additional code cleanup and tweaks by Milamber33.
 
 ## License
