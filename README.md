@@ -114,10 +114,10 @@ A precision network monitor with all the features of Network Meter, plus:
 * Automatically checks for and optionally installs new Gadgets releases (enable/disable from the Welcome gadget).
 
 **...get even more Gadgets!\***
-* [Clipboard Meter](https://github.com/SilverAzide/Clipboard-Meter)
-* [Stopwatch](https://github.com/SilverAzide/Stopwatch)
-* [Top Process Meter](https://github.com/SilverAzide/Top-Process-Meter)
-* [Weather Meter for Yahoo](https://github.com/SilverAzide/Weather-Meter-Yahoo)
+* [Clipboard Meter](https://github.com/SilverAzide/Clipboard-Meter/#readme)
+* [Stopwatch](https://github.com/SilverAzide/Stopwatch/#readme)
+* [Top Process Meter](https://github.com/SilverAzide/Top-Process-Meter/#readme)
+* [Weather Meter for Yahoo](https://github.com/SilverAzide/Weather-Meter-Yahoo/#readme)
 
 **\*** Feature not part of original AddGadgets.com gadgets.
 
@@ -135,12 +135,14 @@ Battery Meter can use either native Rainmeter plugins or [HWiNFO](https://www.hw
 * Calendar gadget is [LuaCalendar 5.0](http://fav.me/d4n57jh) by Smurfier, with scaling enhancement added by [TGonZ0](https://www.deviantart.com/tgonz0/), with localization and style mods by me.
 * Chronometer and Network Meter gadgets use techniques from the System and Network skins in [JSMeter10](https://github.com/jsmorley/JSMeter10) by JSMorley.
 * Update Checker gadget based on [ModernGadgets](https://github.com/raiguard/ModernGadgets/#readme) Update Checker by raiguard.
-* Weather Meter gadget uses the [Weather.com](https://forum.rainmeter.net/viewtopic.php?f=27&t=34734) JSON V3 include templates by JSMorley
+* Weather Meter gadget uses the [Weather.com](https://forum.rainmeter.net/viewtopic.php?f=27&t=34734) JSON V3 include templates by JSMorley.
 * Weather Meter gadget includes translations from [VClouds Weather 2](http://fav.me/d2ylush) by VClouds.
 * Weather Meter gadget uses weather icons by JSMorley (and others) with modifications by me.
 * Weather Meter gadget uses a Lua script from [Sunset-Moonrise](http://fav.me/d5ybxqr) by Mordasius to calculate sun/moon times, with moon position/illumination code from [ModernGadgets](https://github.com/raiguard/ModernGadgets) by raiguard with [tweaks by Mordasius](https://forum.rainmeter.net/viewtopic.php?f=5&t=35896&start=30#p182152) and me.
 * Welcome gadget uses the [ConfigActive](https://forum.rainmeter.net/viewtopic.php?f=18&t=28720) plugin by JSMorley.
-* Gadgets includes [ColorPickerPlus](https://github.com/raiguard/ColorPickerPlus/#readme) by raiguard, with mods by me.
+* Gadgets includes [ColorPickerPlus](https://github.com/raiguard/ColorPickerPlus/#readme) by raiguard, with modifications by me.
+    * ColorPickerPlus uses the [CursorColor](https://github.com/jsmorley/PluginColorCursor/#readme) plugin by JSMorley.
+    * ColorPickerPlus uses the [Mouse](https://github.com/NighthawkSLO/Mouse.dll/#readme) plugin by NighthawkSLO.
 * Additional code cleanup and tweaks by Milamber33.
 
 ## License
