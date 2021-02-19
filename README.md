@@ -19,7 +19,7 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 * Shows used, free, and total page file available (optional).
 * Shows core temperatures (optional, requires [CoreTemp](http://www.alcpu.com/CoreTemp/), [SpeedFan](http://www.almico.com/speedfan.php), or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-core-temperatures#how-to-configure-the-all-cpu-meter-to-show-core-temperatures).
 * Shows CPU fan speed (optional, requires [SpeedFan](http://www.almico.com/speedfan.php) or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-fan-usage#how-to-configure-the-all-cpu-meter-to-show-fan-usage).**\***
-* Displays graphical line chart of CPU utilization, with RAM and page file percent usage.
+* Displays graphical line chart of CPU utilization, with RAM and page file percent usage (optional).
 * Shows Task Manager when gadget is double-clicked.
 * Scales to any desired size.
 
@@ -29,7 +29,7 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 * Displays percent disk utilization for each drive, plus the total.
 * Shows throughput for each drive (read and write).
 * Shows total bytes read/written since bootup for each drive on mouseover (optional).**\***
-* Displays disk throughput graph.
+* Displays disk throughput graph (optional).
 * Displays disk time percentage histogram (optional).
 * Drive space bar graph changes color when disks are nearing capacity.**\***
 * Shows Explorer when gadget is double-clicked.
@@ -41,7 +41,7 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 * Displays internal and external IP addresses (optional).
 * Displays peak network throughput.**\***
 * Shows inbound and outbound throughput in bits/sec and bytes/sec.
-* Displays graphical chart of inbound and outbound network activity. Does not require guesstimating your network speed, chart dynamically scales to handle both LAN and WAN traffic.
+* Displays graphical chart of inbound and outbound network activity (optional). Does not require guesstimating your network speed, chart dynamically scales to handle both LAN and WAN traffic.
 * Shows statistics for the current session and the total to date (optional).
 * Indicates internet connectivity.
 * Animated network icon shows network activity (in/out/both/neither/disconnected).**\***
@@ -63,7 +63,7 @@ A precision network monitor with all the features of Network Meter, plus:
 * Shows used, free, and total RAM available, with memory clock speed.
 * Shows GPU temperature, core load, and core voltage.
 * Shows GPU fan speed and percent utilization.
-* Displays graphical line chart of RAM, core load, temperature, and fan usage.
+* Displays graphical line chart of RAM, core load, temperature, and fan usage (optional).
 * Multiple GPU Meters provided to allow monitoring more than one GPU (for dedicated GPUs and 2-way SLI-equipped systems; for 4-way SLI systems, see [this](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-GPU-Meter-to-monitor-multiple-GPUs#how-to-configure-the-gpu-meter-to-monitor-multiple-gpus).**\***
 * Scales to any desired size.
 
@@ -92,6 +92,13 @@ A precision network monitor with all the features of Network Meter, plus:
 * Scales to any desired size.
 * Includes variant gadget that works with [HWiNFO](http://www.hwinfo.com).
 
+**Top Process Meter**
+* Displays 1 to 10 top processes, ordered by CPU/GPU/RAM/IO utilization.**\***
+* Displays the amount of memory used by each process.
+* Displays graph of total CPU/GPU/RAM/IO utilization (optional).
+* Shows Resource Monitor when gadget is double-clicked.
+* Scales to any desired size.
+
 **Calendar**
 * Based on [LuaCalendar](https://smurfier.github.io/LuaCalendar/), styled to match the Gadget suite.**\***
 * Supports localized month/day names automatically.
@@ -116,7 +123,6 @@ A precision network monitor with all the features of Network Meter, plus:
 **...get even more Gadgets!\***
 * [Clipboard Meter](https://github.com/SilverAzide/Clipboard-Meter/#readme)
 * [Stopwatch](https://github.com/SilverAzide/Stopwatch/#readme)
-* [Top Process Meter](https://github.com/SilverAzide/Top-Process-Meter/#readme)
 * [Weather Meter for Yahoo](https://github.com/SilverAzide/Weather-Meter-Yahoo/#readme)
 
 **\*** Feature not part of original AddGadgets.com gadgets.
@@ -124,6 +130,7 @@ A precision network monitor with all the features of Network Meter, plus:
 ## Requirements
 Rainmeter 4.4.0 or later: <https://www.rainmeter.net>.<br>
 .NET Framework 4.5.2 or later.
+Top GPU Meter requires Windows 10 Fall Creator's Update (v1709) or later.
 
 **Optional**<br>
 CPU Meter can use either [HWiNFO](https://www.hwinfo.com), [CoreTemp](https://www.alcpu.com/CoreTemp/) or [SpeedFan](http://www.almico.com/speedfan.php) to report temperatures and/or fan speeds.<br>
