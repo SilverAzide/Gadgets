@@ -90,7 +90,6 @@ A precision network monitor with all the features of Network Meter, plus:
 * Supports automatic failover on systems having multiple batteries.**\***
 * Shows Power Options when gadget is double-clicked.**\***
 * Scales to any desired size.
-* Includes variant gadget that works with [HWiNFO](http://www.hwinfo.com).
 
 **Top Process Meter**
 * Displays 1 to 10 top processes, ordered by CPU/GPU/RAM/IO utilization.**\***
@@ -135,7 +134,6 @@ Top GPU Meter requires Windows 10 Fall Creator's Update (v1709) or later.
 **Optional**<br>
 CPU Meter can use either [HWiNFO](https://www.hwinfo.com), [CoreTemp](https://www.alcpu.com/CoreTemp/) or [SpeedFan](http://www.almico.com/speedfan.php) to report temperatures and/or fan speeds.<br>
 GPU Meter requires [HWiNFO](https://www.hwinfo.com).<br>
-Battery Meter can use either native Rainmeter plugins or [HWiNFO](https://www.hwinfo.com).
 
 ## Attribution
 * All CPU Meter gadget based on [All CPU Meter](https://forum.rainmeter.net/viewtopic.php?f=27&t=18381) by james31231.
