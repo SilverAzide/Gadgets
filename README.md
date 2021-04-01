@@ -12,7 +12,8 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 [![Rainmeter Forum](https://img.shields.io/static/v1?label=Rainmeter%20Forum&message=Gadgets&colorA=f0f0f0&colorB=2a6e9b&style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAYAAADAvYV%2BAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAESwAABEsBbzH2CgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAH6SURBVCiRhdJPSJNhHAfw7%2FO8z%2Fu8%2F3w3bW05WVlr4XRzyw0iFRfF7FIepD8UQn9Mq8MWBnXpsPDapVuhyyKKqE4lHSoKqUPUwYQkgkqtiBAcCTU22db7dLFyueh3%2FPHh%2B%2BUHP6DCNCTS6yrt6d8LX%2FKyU2HSS39iqPm%2F2KXLF7aHvKajSr8BCPJPHDwx3GbT1c4z3TGpub62PnLq6qHKeM9tydS0a6ldW%2ByUEJze2W5yKp3bOHClehmOrM72tW7wOJs8TgCAw9Swvz1oU7g0WIajR4dkzthgfzxqLq3d1xbkFDgQOn7R9RtbVXJfrHGt7q4us1Bkhp6OsG7YjdQiFoQzluqPR8rlr1M2N3EI9PiS123Un0zH%2FHUOvlLnKH5%2BCuvbp2XpnWGfrEuFvUzjfNvWgLcm%2FyyFwtQdAAR8fRfUyACo4YY1%2FxaxBo8x9npmB5MAVZYoIbK2mCVQmBpFYfoeqOEGkRSwlhGACJXmiqWHD169n1eCvSDc9qdfWLCyX6C2JPB4ciaXzRdGpbkXdz%2Fooee77XaXK9RxmArLAmEq2KootNazmMh7xcjY%2BGwmI44QAAicvLTC5PxReE2tt3tTo72uxkTmew73J95ln7z5OJcrleKT53unlzyKIIFEusthMw5aQtRTgtmv2YVbysKPm%2BPDx4oA8BMJrI6FKL9sKAAAAABJRU5ErkJggg%3D%3D)](https://forum.rainmeter.net/viewtopic.php?f=130&t=20699)
 
 ## Features
-**All CPU Meter**
+#### All CPU Meter
+![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![All CPU Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/All-CPU-Meter.png)
 * Displays CPU utilization for 1 to 64 logical cores.
 * Displays processor model and clock speed.
 * Shows used, free, and total RAM available.
@@ -23,7 +24,38 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 * Shows Task Manager when gadget is double-clicked.
 * Scales to any desired size.
 
-**Drives Meter**
+#### Battery Meter
+![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Battery Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/Battery-Meter.png)
+* Displays the current battery status, including time remaining and current percentage remaining.
+* Shows current voltage, charge and discharge rates, current and maximum charge capacity.
+* Shows battery manufacturer/model.
+* Displays power in either watts or milliamps.
+* Supports automatic failover on systems having multiple batteries.**\***
+* Shows Power Options when gadget is double-clicked.**\***
+* Scales to any desired size.
+
+#### Calendar
+![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Calendar](https://github.com/SilverAzide/Gadgets/wiki/Images/Calendar-Month.png) ![Calendar (Large Day enabled)](https://github.com/SilverAzide/Gadgets/wiki/Images/Calendar-Day.png) ![Calendar + Day](https://github.com/SilverAzide/Gadgets/wiki/Images/Calendar-Month-Plus-Day.png)
+* Based on [LuaCalendar](https://smurfier.github.io/LuaCalendar/), styled to match the Gadget suite.**\***
+* Supports localized month/day names automatically.
+* Scales to any desired size.
+* Includes variant gadget that shows the current day, similar to the original Windows Sidebar gadget.
+
+#### Chronometer
+![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Chronometer](https://github.com/SilverAzide/Gadgets/wiki/Images/Chronometer.png)
+* Digital Clock displays time, date, day, week, and quarter of the year.
+* Shows computer uptime and session logon time (optional).
+* Shows event countdown with customizable sound (optional).
+* Includes configurable chime and multiple alarms with customizable sounds (optional).
+* Supports Windows localized or custom time and date formats.
+* Supports world times, can be adjusted for time zones and daylight saving time.**\***
+* Supports having multiple clocks to allow monitoring time in multiple locations ([info](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Create-multiple-Chronometers#how-to-create-multiple-chronometers)).
+* Scales to any desired size.
+* Includes Analog Clock variant, styled to match the Gadget suite.**\***
+* Includes analog clocks ported from the original Windows Vista/Windows 7 Sidebar gadgets.
+
+#### Drives Meter
+![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Drives Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/Drives-Meter.png)
 * Displays disk information for up to 26 physical drives (fixed and removable only). Gadget dynamically adjusts to handle adding and removing drives.
 * Shows used, free, and total disk space available.
 * Displays percent disk utilization for each drive, plus the total.
@@ -36,7 +68,18 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 * Opens drive in Explorer (or runs any user-defined command) when disk label is clicked.**\***
 * Scales to any desired size.
 
-**Network Meter**
+#### GPU Meter
+![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![GPU Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/GPU-Meter.png)
+* Displays GPU model and clock speed (requires [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-GPU-Meter#how-to-configure-the-gpu-meter)).
+* Shows used, free, and total RAM available, with memory clock speed.
+* Shows GPU temperature, core load, and core voltage.
+* Shows GPU fan speed and percent utilization.
+* Displays graphical line chart of RAM, core load, temperature, and fan usage (optional).
+* Multiple GPU Meters provided to allow monitoring more than one GPU (for dedicated GPUs and 2-way SLI-equipped systems; for 4-way SLI systems, see [this](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-GPU-Meter-to-monitor-multiple-GPUs#how-to-configure-the-gpu-meter-to-monitor-multiple-gpus).**\***
+* Scales to any desired size.
+
+#### Network Meter
+![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Network Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/Network-Meter.png)
 * Shows data for all or selected network interfaces ([info](https://github.com/SilverAzide/Gadgets/wiki/INFO-Network-statistics-monitoring#info-network-statistics-monitoring)).
 * Displays internal and external IP addresses (optional).
 * Displays peak network throughput.**\***
@@ -50,7 +93,7 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 * Includes dedicated Wireless Network gadget for monitoring wireless activity.
 * Scales to any desired size.
 
-**Network Meter Pro**<br>
+#### Network Meter Pro
 A precision network monitor with all the features of Network Meter, plus:
 * More accurate network interface statistics monitoring, including data when Rainmeter is not running or no user is logged into the system.
 * Not affected by Rainmeter restarts/refreshes.
@@ -58,16 +101,16 @@ A precision network monitor with all the features of Network Meter, plus:
 * Includes dedicated Wireless Network Pro gadget for monitoring wireless activity.
 * Note: Requires installation of a Windows service (included).
 
-**GPU Meter**
-* Displays GPU model and clock speed (requires [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-GPU-Meter#how-to-configure-the-gpu-meter)).
-* Shows used, free, and total RAM available, with memory clock speed.
-* Shows GPU temperature, core load, and core voltage.
-* Shows GPU fan speed and percent utilization.
-* Displays graphical line chart of RAM, core load, temperature, and fan usage (optional).
-* Multiple GPU Meters provided to allow monitoring more than one GPU (for dedicated GPUs and 2-way SLI-equipped systems; for 4-way SLI systems, see [this](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-GPU-Meter-to-monitor-multiple-GPUs#how-to-configure-the-gpu-meter-to-monitor-multiple-gpus).**\***
+#### Top Process Meter
+![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Top Process Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/Top-Process-Meter.png)
+* Displays 1 to 10 top processes, ordered by CPU/GPU/RAM/IO utilization.**\***
+* Displays the amount of memory used by each process.
+* Displays graph of total CPU/GPU/RAM/IO utilization (optional).
+* Shows Resource Monitor when gadget is double-clicked.
 * Scales to any desired size.
 
-**Weather Meter**
+#### Weather Meter
+![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Weather Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/Weather-Meter.png)
 * Displays the current weather for any location from [The Weather Channel](http://www.weather.com/). _Does NOT use the deprecated Wxdata feed_.
 * Displays data in metric or imperial units.
 * Shows current temperature, forecast high and low temperatures, "feels like" temperature, current conditions, current location and station, humidity, visibility, barometric pressure, wind speed, wind direction, and chance of precipitation.
@@ -82,44 +125,14 @@ A precision network monitor with all the features of Network Meter, plus:
 * Supports having multiple Weather Meters to allow monitoring more than one location ([info](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-Weather-Meter-to-show-multiple-locations#how-to-configure-the-weather-meter-to-show-multiple-locations)).
 * Scales to any desired size.
 
-**Battery Meter**
-* Displays the current battery status, including time remaining and current percentage remaining.
-* Shows current voltage, charge and discharge rates, current and maximum charge capacity.
-* Shows battery manufacturer/model.
-* Displays power in either watts or milliamps.
-* Supports automatic failover on systems having multiple batteries.**\***
-* Shows Power Options when gadget is double-clicked.**\***
-* Scales to any desired size.
+#### Welcome
+![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Welcome](https://github.com/SilverAzide/Gadgets/wiki/Images/Welcome.png)
+* When the Gadgets are installed, the Welcome gadget will be loaded. Use this to toggle Gadgets on and off and to enable the Update Checker.
 
-**Top Process Meter**
-* Displays 1 to 10 top processes, ordered by CPU/GPU/RAM/IO utilization.**\***
-* Displays the amount of memory used by each process.
-* Displays graph of total CPU/GPU/RAM/IO utilization (optional).
-* Shows Resource Monitor when gadget is double-clicked.
-* Scales to any desired size.
-
-**Calendar**
-* Based on [LuaCalendar](https://smurfier.github.io/LuaCalendar/), styled to match the Gadget suite.**\***
-* Supports localized month/day names automatically.
-* Scales to any desired size.
-* Includes variant gadget that shows the current day, similar to the original Windows Sidebar gadget.
-
-**Chronometer**
-* Digital Clock displays time, date, day, week, and quarter of the year.
-* Shows computer uptime and session logon time (optional).
-* Shows event countdown with customizable sound (optional).
-* Includes configurable chime and multiple alarms with customizable sounds (optional).
-* Supports Windows localized or custom time and date formats.
-* Supports world times, can be adjusted for time zones and daylight saving time.**\***
-* Supports having multiple clocks to allow monitoring time in multiple locations ([info](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Create-multiple-Chronometers#how-to-create-multiple-chronometers)).
-* Scales to any desired size.
-* Includes Analog Clock variant, styled to match the Gadget suite.**\***
-* Includes analog clocks ported from the original Windows Vista/Windows 7 Sidebar gadgets.
-
-**Update Checker**
+#### Update Checker
 * Automatically checks for and optionally installs new Gadgets releases (enable/disable from the Welcome gadget).
 
-**...get even more Gadgets!\***
+#### ...get even more Gadgets!\*
 * [Clipboard Meter](https://github.com/SilverAzide/Clipboard-Meter/#readme)
 * [Stopwatch](https://github.com/SilverAzide/Stopwatch/#readme)
 * [Weather Meter for Yahoo](https://github.com/SilverAzide/Weather-Meter-Yahoo/#readme)
@@ -127,8 +140,8 @@ A precision network monitor with all the features of Network Meter, plus:
 **\*** Feature not part of original AddGadgets.com gadgets.
 
 ## Requirements
-Rainmeter 4.4.0 or later: <https://www.rainmeter.net>.<br>
-.NET Framework 4.5.2 or later.
+[Rainmeter 4.4.0 or later](https://www.rainmeter.net).<br>
+.NET Framework 4.5.2 or later.<br>
 Top GPU Meter requires Windows 10 Fall Creator's Update (v1709) or later.
 
 **Optional**<br>
