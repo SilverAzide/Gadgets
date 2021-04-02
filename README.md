@@ -140,13 +140,13 @@ A precision network monitor with all the features of Network Meter, plus:
 **\*** Feature not part of original AddGadgets.com gadgets.
 
 ## Requirements
-[Rainmeter 4.4.0 or later](https://www.rainmeter.net).<br>
+[Rainmeter 4.4.0.3438 or later](https://www.rainmeter.net).<br>
 .NET Framework 4.5.2 or later.<br>
+GPU Meter requires [HWiNFO 7.02 or later](https://www.hwinfo.com).<br>
 Top GPU Meter requires Windows 10 Fall Creator's Update (v1709) or later.
 
 **Optional**<br>
-CPU Meter can use either [HWiNFO](https://www.hwinfo.com), [CoreTemp](https://www.alcpu.com/CoreTemp/) or [SpeedFan](http://www.almico.com/speedfan.php) to report temperatures and/or fan speeds.<br>
-GPU Meter requires [HWiNFO](https://www.hwinfo.com).<br>
+CPU Meter can use either [HWiNFO 7.02 or later](https://www.hwinfo.com), [CoreTemp](https://www.alcpu.com/CoreTemp/) or [SpeedFan](http://www.almico.com/speedfan.php) to report temperatures and/or fan speeds.
 
 ## Attribution
 * All CPU Meter gadget based on [All CPU Meter](https://forum.rainmeter.net/viewtopic.php?f=27&t=18381) by james31231.
@@ -164,7 +164,7 @@ GPU Meter requires [HWiNFO](https://www.hwinfo.com).<br>
 * Additional code cleanup and tweaks by Milamber33.
 
 ## License
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
 
 ---
 [![GitHub All Releases](https://img.shields.io/github/downloads/SilverAzide/Gadgets/total?logo=github&color=blue&style=for-the-badge)](https://github.com/SilverAzide/Gadgets/releases)
