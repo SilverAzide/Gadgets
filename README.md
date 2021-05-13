@@ -75,7 +75,7 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 * Shows GPU temperature, core load, and core voltage.
 * Shows GPU fan speed and percent utilization.
 * Displays graphical line chart of RAM, core load, temperature, and fan usage (optional).
-* Multiple GPU Meters provided to allow monitoring more than one GPU (for dedicated GPUs and 2-way SLI-equipped systems; for 4-way SLI systems, see [this](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-GPU-Meter-to-monitor-multiple-GPUs#how-to-configure-the-gpu-meter-to-monitor-multiple-gpus).**\***
+* Multiple GPU Meters provided to allow monitoring more than one GPU (for dedicated GPUs and 2-way SLI-equipped systems; for 4-way SLI systems, see [this](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-GPU-Meter-to-monitor-multiple-GPUs#how-to-configure-the-gpu-meter-to-monitor-multiple-gpus)).**\***
 * Scales to any desired size.
 
 #### Network Meter
@@ -141,7 +141,7 @@ A precision network monitor with all the features of Network Meter, plus:
 
 ## Requirements
 [Rainmeter 4.4.0.3438 or later](https://www.rainmeter.net).<br>
-.NET Framework 4.5.2 or later.<br>
+[.NET Framework 4.8 or later](https://dotnet.microsoft.com/download/dotnet-framework/net48).<br>
 GPU Meter requires [HWiNFO 7.02 or later](https://www.hwinfo.com).<br>
 Top GPU Meter requires Windows 10 Fall Creator's Update (v1709) or later.
 
