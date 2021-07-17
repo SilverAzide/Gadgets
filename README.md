@@ -56,7 +56,7 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 
 #### Drives Meter
 ![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Drives Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/Drives-Meter.png)
-* Displays disk information for up to 26 physical drives (fixed and removable only). Gadget dynamically adjusts to handle adding and removing drives.
+* Displays disk information for up to 26 logical drives (fixed and removable only). Gadget dynamically adjusts to handle adding and removing drives.
 * Shows used, free, and total disk space available.
 * Displays percent disk utilization for each drive, plus the total.
 * Shows throughput for each drive (read and write).
