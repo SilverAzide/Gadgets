@@ -14,7 +14,8 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 ## Features
 #### All CPU Meter
 ![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![All CPU Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/All-CPU-Meter.png)
-* Displays CPU utilization for 1 to 64 logical cores.
+* Displays CPU utilization for an unlimited number of CPUs and processors with up to 64-cores/128-threads each.**\***
+* Supports [symmetric multiprocessing](https://docs.microsoft.com/en-us/windows/win32/procthread/multiple-processors) (SMP) and [non-uniform memory access](https://docs.microsoft.com/en-us/windows/win32/procthread/numa-support) (NUMA) architectures (skins for up to 4 CPUs or 4 NUMA nodes are provided, but more can be added).**\***
 * Displays processor model and clock speed.
 * Shows used, free, and total RAM available.
 * Shows used, free, and total page file available (optional).
@@ -38,8 +39,8 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 ![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Calendar](https://github.com/SilverAzide/Gadgets/wiki/Images/Calendar-Month.png) ![Calendar (Large Day enabled)](https://github.com/SilverAzide/Gadgets/wiki/Images/Calendar-Day.png) ![Calendar + Day](https://github.com/SilverAzide/Gadgets/wiki/Images/Calendar-Month-Plus-Day.png)
 * Based on [LuaCalendar](https://smurfier.github.io/LuaCalendar/), styled to match the Gadget suite.**\***
 * Supports localized month/day names automatically.
+* Supports multiple appearance options similar to the original Windows Sidebar gadget: calendar only, calendar with large date, and large date.
 * Scales to any desired size.
-* Includes variant gadget that shows the current day, similar to the original Windows Sidebar gadget.
 
 #### Chronometer
 ![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Chronometer](https://github.com/SilverAzide/Gadgets/wiki/Images/Chronometer.png)
