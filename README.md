@@ -17,7 +17,7 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 * Displays CPU utilization for an unlimited number of CPUs and processors with up to 64-cores/128-threads each.**\***
 * Supports [symmetric multiprocessing](https://docs.microsoft.com/en-us/windows/win32/procthread/multiple-processors) (SMP) and [non-uniform memory access](https://docs.microsoft.com/en-us/windows/win32/procthread/numa-support) (NUMA) architectures (skins for up to 4 CPUs or 4 NUMA nodes are provided, but more can be added).**\***
 * Displays processor model and clock speed.
-* Shows used, free, and total RAM available.
+* Shows used, free, and total RAM available (per CPU or NUMA node if applicable).
 * Shows used, free, and total page file available (optional).
 * Shows core temperatures (optional, requires [CoreTemp](http://www.alcpu.com/CoreTemp/), [SpeedFan](http://www.almico.com/speedfan.php), or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-core-temperatures#how-to-configure-the-all-cpu-meter-to-show-core-temperatures).
 * Shows CPU fan speed (optional, requires [SpeedFan](http://www.almico.com/speedfan.php) or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-fan-usage#how-to-configure-the-all-cpu-meter-to-show-fan-usage).**\***
