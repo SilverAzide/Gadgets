@@ -151,7 +151,7 @@ CPU Meter can use either [HWiNFO 7.02 or later](https://www.hwinfo.com), [CoreTe
 
 ## Attribution
 * All CPU Meter gadget based on [All CPU Meter](https://forum.rainmeter.net/viewtopic.php?f=27&t=18381) by james31231.
-* Calendar gadget is [LuaCalendar 5.0](http://fav.me/d4n57jh) by Smurfier, with scaling enhancement added by [TGonZ0](https://www.deviantart.com/tgonz0/), with localization and style mods by me.
+* Calendar gadget is [LuaCalendar 6.0](http://smurfier.github.io/LuaCalendar/) by Smurfier, with [scaling enhancement](https://forum.rainmeter.net/viewtopic.php?f=5&t=38166#p196001) added by [Eclectic-Tech](https://www.deviantart.com/eclectic-tech), with localization and style mods by me.
 * Chronometer and Network Meter gadgets use techniques from the System and Network skins in [JSMeter10](https://github.com/jsmorley/JSMeter10) by JSMorley.
 * Update Checker gadget based on [ModernGadgets](https://github.com/raiguard/ModernGadgets/#readme) Update Checker by raiguard.
 * Weather Meter gadget uses the [Weather.com](https://forum.rainmeter.net/viewtopic.php?f=27&t=34734) JSON V3 include templates by JSMorley.
