@@ -141,7 +141,7 @@ A precision network monitor with all the features of Network Meter, plus:
 **\*** Feature not part of original AddGadgets.com gadgets.
 
 ## Requirements
-[Rainmeter 4.4.0.3438 or later](https://www.rainmeter.net).<br>
+[Rainmeter 4.5.1 or later](https://www.rainmeter.net).<br>
 [.NET Framework 4.8 or later](https://dotnet.microsoft.com/download/dotnet-framework/net48).<br>
 GPU Meter requires [HWiNFO 7.02 or later](https://www.hwinfo.com).<br>
 Top GPU Meter requires Windows 10 Fall Creator's Update (v1709) or later.
