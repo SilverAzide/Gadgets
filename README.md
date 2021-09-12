@@ -19,8 +19,8 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 * Displays processor model and clock speed.
 * Shows used, free, and total RAM available (per CPU or NUMA node if applicable).
 * Shows used, free, and total page file available (optional).
-* Shows core temperatures (optional, requires [CoreTemp](http://www.alcpu.com/CoreTemp/), [SpeedFan](http://www.almico.com/speedfan.php), or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-core-temperatures#how-to-configure-the-all-cpu-meter-to-show-core-temperatures).
-* Shows CPU fan speed (optional, requires [SpeedFan](http://www.almico.com/speedfan.php) or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-fan-usage#how-to-configure-the-all-cpu-meter-to-show-fan-usage).**\***
+* Shows core temperatures (optional, requires [CoreTemp](http://www.alcpu.com/CoreTemp/), [SpeedFan](http://www.almico.com/speedfan.php), or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-core-temperatures#how-to-configure-the-all-cpu-meter-to-show-core-temperatures)).
+* Shows CPU fan speed (optional, requires [SpeedFan](http://www.almico.com/speedfan.php) or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-fan-usage#how-to-configure-the-all-cpu-meter-to-show-fan-usage)).**\***
 * Displays graphical line chart of CPU utilization, with RAM and page file percent usage (optional).
 * Shows Task Manager when gadget is double-clicked.
 * Scales to any desired size.
