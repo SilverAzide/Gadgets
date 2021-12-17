@@ -22,7 +22,7 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 * Shows core temperatures (optional, requires [CoreTemp](http://www.alcpu.com/CoreTemp/), [SpeedFan](http://www.almico.com/speedfan.php), or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-core-temperatures#how-to-configure-the-all-cpu-meter-to-show-core-temperatures)).
 * Shows CPU fan speed (optional, requires [SpeedFan](http://www.almico.com/speedfan.php) or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-fan-usage#how-to-configure-the-all-cpu-meter-to-show-fan-usage)).**\***
 * Displays graphical line chart of CPU utilization, with RAM and page file percent usage (optional).
-* Shows Task Manager when gadget is double-clicked.
+* Shows Task Manager or Resource Monitor when gadget is double-clicked.
 * Scales to any desired size.
 
 #### Battery Meter
@@ -141,7 +141,7 @@ A precision network monitor with all the features of Network Meter, plus:
 **\*** Feature not part of original AddGadgets.com gadgets.
 
 ## Requirements
-[Rainmeter 4.5.1 or later](https://www.rainmeter.net).<br>
+[Rainmeter 4.5.7 or later](https://www.rainmeter.net).<br>
 [.NET Framework 4.8 or later](https://dotnet.microsoft.com/download/dotnet-framework/net48).<br>
 GPU Meter requires [HWiNFO 7.02 or later](https://www.hwinfo.com).<br>
 Top GPU Meter requires Windows 10 Fall Creator's Update (v1709) or later.
