@@ -73,9 +73,10 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 ![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![GPU Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/GPU-Meter.png)
 * Displays GPU model and clock speed (requires [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-GPU-Meter#how-to-configure-the-gpu-meter)).
 * Shows used, free, and total RAM available, with memory clock speed.
-* Shows GPU temperature, core load, and core voltage.
+* Shows GPU temperature and core load.
 * Shows GPU fan speed and percent utilization for up to 4 fans per GPU (optional).
-* Displays graphical line chart of RAM, core load, temperature, and fan usage (optional).
+* Shows core voltage or any 6 additional sensors per GPU (optional).
+* Displays graphical line chart of RAM, core load, temperature, fan usage, and additional sensors (optional).
 * Multiple GPU Meters provided to allow monitoring more than one GPU (for dedicated GPUs and 2-way SLI-equipped systems; for 4-way SLI systems, see [this](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-GPU-Meter-to-monitor-multiple-GPUs#how-to-configure-the-gpu-meter-to-monitor-multiple-gpus)).**\***
 * Scales to any desired size.
 
