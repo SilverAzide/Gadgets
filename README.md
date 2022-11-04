@@ -6,14 +6,14 @@ Arguably, some of the best and most popular Vista and Windows 7 Gadgets for syst
 
 Rainmeter is a free, open-source application for Windows PCs. It is a platform that enables skins to run on the desktop. I've taken the most widely used AddGadgets.com gadgets and re-imagined them in a new suite of Rainmeter Gadgets.
 
-[![Click here to download](https://img.shields.io/github/v/release/SilverAzide/Gadgets?logo=github&label=Click%20here%20to%20download&color=blueviolet&style=for-the-badge)](https://github.com/SilverAzide/Gadgets/releases/download/v7.4.0/Gadgets_7.4.0.rmskin)
+[![Click here to download](https://img.shields.io/github/v/release/SilverAzide/Gadgets?logo=github&label=Click%20here%20to%20download&color=blueviolet&style=for-the-badge)](https://github.com/SilverAzide/Gadgets/releases/download/v7.5.0/Gadgets_7.5.0.rmskin)
 
 ###### Get help on the Rainmeter forums
 [![Rainmeter Forum](https://img.shields.io/static/v1?label=Rainmeter%20Forum&message=Gadgets&colorA=f0f0f0&colorB=2a6e9b&style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAYAAADAvYV%2BAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAESwAABEsBbzH2CgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAH6SURBVCiRhdJPSJNhHAfw7%2FO8z%2Fu8%2F3w3bW05WVlr4XRzyw0iFRfF7FIepD8UQn9Mq8MWBnXpsPDapVuhyyKKqE4lHSoKqUPUwYQkgkqtiBAcCTU22db7dLFyueh3%2FPHh%2B%2BUHP6DCNCTS6yrt6d8LX%2FKyU2HSS39iqPm%2F2KXLF7aHvKajSr8BCPJPHDwx3GbT1c4z3TGpub62PnLq6qHKeM9tydS0a6ldW%2ByUEJze2W5yKp3bOHClehmOrM72tW7wOJs8TgCAw9Swvz1oU7g0WIajR4dkzthgfzxqLq3d1xbkFDgQOn7R9RtbVXJfrHGt7q4us1Bkhp6OsG7YjdQiFoQzluqPR8rlr1M2N3EI9PiS123Un0zH%2FHUOvlLnKH5%2BCuvbp2XpnWGfrEuFvUzjfNvWgLcm%2FyyFwtQdAAR8fRfUyACo4YY1%2FxaxBo8x9npmB5MAVZYoIbK2mCVQmBpFYfoeqOEGkRSwlhGACJXmiqWHD169n1eCvSDc9qdfWLCyX6C2JPB4ciaXzRdGpbkXdz%2Fooee77XaXK9RxmArLAmEq2KootNazmMh7xcjY%2BGwmI44QAAicvLTC5PxReE2tt3tTo72uxkTmew73J95ln7z5OJcrleKT53unlzyKIIFEusthMw5aQtRTgtmv2YVbysKPm%2BPDx4oA8BMJrI6FKL9sKAAAAABJRU5ErkJggg%3D%3D)](https://forum.rainmeter.net/viewtopic.php?f=130&t=20699)
 
 ## Features
 #### All CPU Meter
-![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![All CPU Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/All-CPU-Meter.png)
+![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![All CPU Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/All-CPU-Meter.png) ![All CPU Meter compact](https://github.com/SilverAzide/Gadgets/wiki/Images/All-CPU-Meter-small.png)
 * Displays CPU utilization for an unlimited number of CPUs and processors with up to 64-cores/128-threads each.**\***
 * Supports [symmetric multiprocessing](https://docs.microsoft.com/en-us/windows/win32/procthread/multiple-processors) (SMP) and [non-uniform memory access](https://docs.microsoft.com/en-us/windows/win32/procthread/numa-support) (NUMA) architectures (skins for up to 4 CPUs or 4 NUMA nodes are provided, but more can be added).**\***
 * Displays processor model and clock speed.
@@ -22,6 +22,7 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 * Shows core temperatures (optional, requires [CoreTemp](http://www.alcpu.com/CoreTemp/), [SpeedFan](http://www.almico.com/speedfan.php), or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-core-temperatures#how-to-configure-the-all-cpu-meter-to-show-core-temperatures)).
 * Shows CPU fan speed (optional, requires [SpeedFan](http://www.almico.com/speedfan.php) or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-fan-usage#how-to-configure-the-all-cpu-meter-to-show-fan-usage)).**\***
 * Displays graphical line chart of CPU utilization, with RAM and page file percent usage (optional).
+* Shows from 1 to 5 top processes by CPU usage (optional).
 * Shows Task Manager or Resource Monitor when gadget is double-clicked.
 * Scales to any desired size.
 
@@ -72,8 +73,8 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 #### GPU Meter
 ![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![GPU Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/GPU-Meter.png)
 * Displays GPU model and clock speed (requires [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-GPU-Meter#how-to-configure-the-gpu-meter)).
-* Shows used, free, and total RAM available, with memory clock speed.
-* Shows GPU temperature and core load.
+* Shows used, free, and total VRAM available (optional).
+* Shows GPU temperature, core load, and memory clock speed.
 * Shows GPU fan speed and percent utilization for up to 4 fans per GPU (optional).
 * Shows core voltage or any 6 additional sensors per GPU (optional).
 * Displays graphical line chart of RAM, core load, temperature, fan usage, and additional sensors (optional).
@@ -81,13 +82,14 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 * Scales to any desired size.
 
 #### Network Meter
-![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Network Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/Network-Meter.png)
+![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Network Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/Network-Meter.png) ![Wireless Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/Wireless-Meter.png)
 * Shows data for all or selected network interfaces ([info](https://github.com/SilverAzide/Gadgets/wiki/INFO-Network-statistics-monitoring#info-network-statistics-monitoring)).
 * Displays internal and external IP addresses (optional).
 * Displays peak network throughput.**\***
 * Shows inbound and outbound throughput in bits/sec and bytes/sec.
 * Displays graphical chart of inbound and outbound network activity (optional). Does not require guesstimating your network speed, chart dynamically scales to handle both LAN and WAN traffic.
 * Shows statistics for the current session and the total to date (optional).
+* Shows network ping times and a link to any speed test website (optional).
 * Indicates internet connectivity.
 * Animated network icon shows network activity (in/out/both/neither/disconnected).**\***
 * Performs external IP address and location lookup.
@@ -143,7 +145,7 @@ A precision network monitor with all the features of Network Meter, plus:
 **\*** Feature not part of original AddGadgets.com gadgets.
 
 ## Requirements
-[Rainmeter 4.5.7 or later](https://www.rainmeter.net).<br>
+[Rainmeter 4.5.16 or later](https://www.rainmeter.net).<br>
 [.NET Framework 4.8 or later](https://dotnet.microsoft.com/download/dotnet-framework/net48).<br>
 GPU Meter requires [HWiNFO 7.02 or later](https://www.hwinfo.com).<br>
 Top GPU Meter requires Windows 10 Fall Creator's Update (v1709) or later.
@@ -171,4 +173,4 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-
 
 ---
 [![GitHub All Releases](https://img.shields.io/github/downloads/SilverAzide/Gadgets/total?logo=github&color=blue&style=for-the-badge)](https://github.com/SilverAzide/Gadgets/releases)
-[![DeviantArt All Releases](https://img.shields.io/badge/dynamic/json?logo=deviantart&label=Downloads&color=05cc47&style=for-the-badge&query=%24.community.statistics._attributes.downloads&url=https%3A%2F%2Fbackend.deviantart.com%2Foembed%3Furl%3Dhttps%253A%252F%252Fwww.deviantart.com%252Fsilverazide2%252Fart%252FGadgets-7.4.0-860144257%26format%3Djson)](https://www.deviantart.com/silverazide2/art/Gadgets-7.4.0-860144257)
+[![DeviantArt All Releases](https://img.shields.io/badge/dynamic/json?logo=deviantart&label=Downloads&color=05cc47&style=for-the-badge&query=%24.community.statistics._attributes.downloads&url=https%3A%2F%2Fbackend.deviantart.com%2Foembed%3Furl%3Dhttps%253A%252F%252Fwww.deviantart.com%252Fsilverazide2%252Fart%252FGadgets-7.5.0-860144257%26format%3Djson)](https://www.deviantart.com/silverazide2/art/Gadgets-7.5.0-860144257)
