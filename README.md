@@ -81,6 +81,13 @@ Rainmeter is a free, open-source application for Windows PCs. It is a platform t
 * Multiple GPU Meters provided to allow monitoring more than one GPU (for dedicated GPUs and 2-way SLI-equipped systems; for 4-way SLI systems, see [this](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-GPU-Meter-to-monitor-multiple-GPUs#how-to-configure-the-gpu-meter-to-monitor-multiple-gpus)).**\***
 * Scales to any desired size.
 
+#### HWiNFO Meter
+![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![GPU Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/HWiNFO-Meter.png)
+* Displays HWiNFO sensor data for up to 16 sensors (requires [HWiNFO](http://www.hwinfo.com)).
+* Displays graphical line chart of sensor data (optional).
+* Supports having multiple HWiNFO Meters to allow monitoring multiple devices.
+* Scales to any desired size.
+
 #### Network Meter
 ![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Network Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/Network-Meter.png) ![Wireless Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/Wireless-Meter.png)
 * Shows data for all or selected network interfaces ([info](https://github.com/SilverAzide/Gadgets/wiki/INFO-Network-statistics-monitoring#info-network-statistics-monitoring)).
