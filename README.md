@@ -147,7 +147,6 @@ A precision network monitor with all the features of Network Meter, plus:
 * [Clipboard Meter](https://github.com/SilverAzide/Clipboard-Meter/#readme)
 * [Modernizer](https://github.com/SilverAzide/Modernizer/#readme) -- adds theming inspired by raiguard's ModernGadgets suite!
 * [Stopwatch](https://github.com/SilverAzide/Stopwatch/#readme)
-* [Weather Meter for Yahoo](https://github.com/SilverAzide/Weather-Meter-Yahoo/#readme)
 
 **\*** Feature not part of original AddGadgets.com gadgets.
 
