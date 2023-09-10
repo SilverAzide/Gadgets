@@ -4,7 +4,7 @@
 
 Arguably, some of the best and most popular Vista and Windows 7 Gadgets for system monitoring were done by AddGadgets.com. Unfortunately, with the deprecation of the Gadget platform and outright banning of gadgets by some corporate policies, these gadgets have become obsolete. Gadgets aren't supported in Windows 8 or later without hacks and workarounds and often they break after applying Windows Updates.
 
-Rainmeter is a free, open-source application for Windows PCs. It is a platform that enables skins to run on the desktop. I've taken the most widely used AddGadgets.com gadgets and re-imagined them in a new suite of Rainmeter Gadgets.
+In 2015, I discovered Rainmeter, a free and open-source platform that enables creating skins that run on the Windows desktop. I re-imagined the most widely used AddGadgets.com gadgets in a new suite named Rainmeter Gadgets.
 
 [![Click here to download](https://img.shields.io/github/v/release/SilverAzide/Gadgets?logo=github&label=Click%20here%20to%20download&color=blueviolet&style=for-the-badge)](https://github.com/SilverAzide/Gadgets/releases/download/v7.5.0/Gadgets_7.5.0.rmskin)
 
