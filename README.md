@@ -46,7 +46,7 @@ In 2015, I discovered Rainmeter, a free and open-source platform that enables cr
 #### Chronometer
 ![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Chronometer](https://github.com/SilverAzide/Gadgets/wiki/Images/Chronometer.png)
 * Digital Clock displays time, date, day, week, and quarter of the year.
-* Shows computer uptime and session logon time (optional).
+* Shows computer current uptime, total uptime, and session logon time (optional).
 * Shows event countdown with customizable sound (optional).
 * Includes configurable chime and multiple alarms with customizable sounds (optional).
 * Supports Windows localized or custom time and date formats.
