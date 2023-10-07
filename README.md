@@ -120,6 +120,16 @@ A precision network monitor with all the features of Network Meter, plus:
 * Shows Resource Monitor when gadget is double-clicked.
 * Scales to any desired size.
 
+#### UPS Meter
+![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![UPS Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/UPS-Meter.png)
+* Displays UPS battery status (requires HWiNFO).
+* Displays estimated runtime remaining.
+* Displays current battery percentage remaining.
+* Shows current voltage.
+* Shows current and maximum load.
+* Shows Power Options when gadget is double-clicked.
+* Scales to any desired size.
+
 #### Weather Meter
 ![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Weather Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/Weather-Meter.png)
 * Displays the current weather for any location from [The Weather Channel](http://www.weather.com/). _Does NOT use the deprecated Wxdata feed_.
@@ -179,4 +189,4 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-
 
 ---
 [![GitHub All Releases](https://img.shields.io/github/downloads/SilverAzide/Gadgets/total?logo=github&color=blue&style=for-the-badge)](https://github.com/SilverAzide/Gadgets/releases)
-[![DeviantArt All Releases](https://img.shields.io/badge/dynamic/json?logo=deviantart&label=Downloads&color=05cc47&style=for-the-badge&query=%24.community.statistics._attributes.downloads&url=https%3A%2F%2Fbackend.deviantart.com%2Foembed%3Furl%3Dhttps%253A%252F%252Fwww.deviantart.com%252Fsilverazide2%252Fart%252FGadgets-7-5-0-860144257%26format%3Djson)](https://www.deviantart.com/silverazide2/art/Gadgets-7-5-0-860144257)
+[![DeviantArt All Releases](https://img.shields.io/badge/dynamic/json?logo=deviantart&label=Downloads&color=05cc47&style=for-the-badge&query=%24.community.statistics._attributes.downloads&url=https%3A%2F%2Fbackend.deviantart.com%2Foembed%3Furl%3Dhttps%253A%252F%252Fwww.deviantart.com%252Fsilverazide2%252Fart%252FGadgets-7-6-0-860144257%26format%3Djson)](https://www.deviantart.com/silverazide2/art/Gadgets-7-6-0-860144257)
