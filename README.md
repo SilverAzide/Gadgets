@@ -2,7 +2,7 @@
 # Gadgets
 **System monitoring gadgets inspired by the well-known AddGadgets.com Windows Sidebar gadgets.**
 
-Arguably, some of the best and most popular Vista and Windows 7 Gadgets for system monitoring were done by AddGadgets.com. Unfortunately, with the deprecation of the Gadget platform and outright banning of gadgets by some corporate policies, these gadgets have become obsolete. Gadgets aren't supported in Windows 8 or later without hacks and workarounds and often they break after applying Windows Updates.
+Arguably, some of the best and most popular Vista and Windows 7 Gadgets for system monitoring were done by AddGadgets.com. Unfortunately, with the deprecation of the Gadget platform and outright banning of gadgets by some corporate policies, these gadgets have become obsolete. Sidebar Gadgets aren't supported in Windows 8 or later without hacks and workarounds and often they break after applying Windows Updates.
 
 In 2015, I discovered Rainmeter, a free and open-source platform that enables creating skins that run on the Windows desktop. I re-imagined the most widely used AddGadgets.com gadgets in a new suite named Rainmeter Gadgets.
 
@@ -38,7 +38,7 @@ In 2015, I discovered Rainmeter, a free and open-source platform that enables cr
 
 #### Calendar
 ![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Calendar](https://github.com/SilverAzide/Gadgets/wiki/Images/Calendar-Month.png) ![Calendar (Large Day enabled)](https://github.com/SilverAzide/Gadgets/wiki/Images/Calendar-Day.png) ![Calendar + Day](https://github.com/SilverAzide/Gadgets/wiki/Images/Calendar-Month-Plus-Day.png)
-* Based on [LuaCalendar](https://smurfier.github.io/LuaCalendar/), styled to match the Gadget suite.**\***
+* Based on [LuaCalendar](https://smurfier.github.io/LuaCalendar/), styled to match the Gadgets suite.**\***
 * Supports localized month/day names automatically.
 * Supports multiple appearance options similar to the original Windows Sidebar gadget: calendar only, calendar with large date, and large date.
 * Scales to any desired size.
@@ -163,7 +163,7 @@ A precision network monitor with all the features of Network Meter, plus:
 ## Requirements
 [Rainmeter 4.5.16 or later](https://www.rainmeter.net).<br>
 [.NET Framework 4.8 or later](https://dotnet.microsoft.com/download/dotnet-framework/net48).<br>
-GPU Meter requires [HWiNFO 7.02 or later](https://www.hwinfo.com).<br>
+GPU Meter, HWiNFO Meter, and UPS Meter require [HWiNFO 7.02 or later](https://www.hwinfo.com).<br>
 Top GPU Meter requires Windows 10 Fall Creator's Update (v1709) or later.
 
 **Optional**<br>
