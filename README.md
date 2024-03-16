@@ -83,7 +83,7 @@ In 2015, I discovered Rainmeter, a free and open-source platform that enables cr
 
 #### HWiNFO Meter
 ![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![GPU Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/HWiNFO-Meter.png)
-* Displays HWiNFO sensor data for up to 16 sensors (requires [HWiNFO](http://www.hwinfo.com)).
+* Displays HWiNFO sensor data for up to 16 sensors (requires [HWiNFO](http://www.hwinfo.com)).**\***
 * Displays graphical line chart of sensor data (optional).
 * Supports having multiple HWiNFO Meters to allow monitoring multiple devices.
 * Scales to any desired size.
@@ -122,7 +122,7 @@ A precision network monitor with all the features of Network Meter, plus:
 
 #### UPS Meter
 ![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![UPS Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/UPS-Meter.png)
-* Displays UPS battery status (requires HWiNFO).
+* Displays UPS battery status (requires HWiNFO).**\***
 * Displays estimated runtime remaining.
 * Displays current battery percentage remaining.
 * Shows current voltage.
