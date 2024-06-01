@@ -18,6 +18,7 @@ In 2015, I discovered Rainmeter, a free and open-source platform that enables cr
 * Supports [symmetric multiprocessing](https://docs.microsoft.com/en-us/windows/win32/procthread/multiple-processors) (SMP) and [non-uniform memory access](https://docs.microsoft.com/en-us/windows/win32/procthread/numa-support) (NUMA) architectures (skins for up to 4 CPUs or 4 NUMA nodes are provided, but more can be added).**\***
 * Displays processor model and clock speed.
 * Shows used, free, and total RAM available (per CPU or NUMA node if applicable).
+* Shows memory composition breakdown (optional).
 * Shows used, free, and total page file available (optional).
 * Shows core temperatures (optional, requires [CoreTemp](http://www.alcpu.com/CoreTemp/), [SpeedFan](http://www.almico.com/speedfan.php), or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-core-temperatures#how-to-configure-the-all-cpu-meter-to-show-core-temperatures)).
 * Shows CPU fan speed (optional, requires [SpeedFan](http://www.almico.com/speedfan.php) or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-fan-usage#how-to-configure-the-all-cpu-meter-to-show-fan-usage)).**\***
@@ -134,7 +135,7 @@ A precision network monitor with all the features of Network Meter, plus:
 ![](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Weather Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/Weather-Meter.png)
 * Displays the current weather for any location from [The Weather Channel](http://www.weather.com/). _Does NOT use the deprecated Wxdata feed_.
 * Displays data in metric or imperial units.
-* Shows current temperature, forecast high and low temperatures, "feels like" temperature, current conditions, current location and station, humidity, visibility, barometric pressure, wind speed, wind direction, and chance of precipitation.
+* Shows current temperature, forecast high and low temperatures, "feels like" temperature, current conditions, current location and station, humidity, visibility, barometric pressure, wind speed, wind direction, UV index, and chance of precipitation.
 * Shows current sunrise and sunset times, day length, and sun dial.
 * Shows current moonrise and moonset times, moon phase and description, and moon dial.
 * Shows moon zenith angle (tilt) and percentage illumination.**\***
