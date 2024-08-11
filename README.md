@@ -172,7 +172,7 @@ A precision network monitor with all the features of Network Meter, plus:
 * Shows complete 5 day forecast in a "flyout" window.
 * Shows severe weather alerts for the current location.**\***
 * Opens weather radar map for the observation location when location name is clicked.**\***
-* Opens 12-Hour Forecast when gadget is double-clicked.**\***
+* Opens 12-Hour Forecast when current temperature is clicked.**\***
 * Optional space-saving compact mode; gadget expands to full size on mouseover.
 * Includes additional language translations: Bulgarian, Catalan, Czech, Dutch, English, Finnish, French, German, Hebrew, Hungarian, Italian, Korean, Polish, Portuguese, Romanian, Russian, Serbian (SP), Slovak, Spanish (SP), Swedish, Ukrainian ([info](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Change-the-default-language-or-temperature-units-of-the-Weather-Meter#how-to-change-the-default-language-or-temperature-units-of-the-weather-meter), source [here](http://fav.me/d2ylush)).
 * Supports having multiple Weather Meters to allow monitoring more than one location ([info](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-Weather-Meter-to-show-multiple-locations#how-to-configure-the-weather-meter-to-show-multiple-locations)).
