@@ -9,7 +9,7 @@ Arguably, some of the best and most popular Vista and Windows 7 Gadgets for syst
 
 In 2015, I discovered Rainmeter, a free and open-source platform that enables creating skins that run on the Windows desktop. I re-imagined the most widely used AddGadgets.com gadgets in a new suite named Rainmeter Gadgets.
 
-[![Click here to download](https://img.shields.io/github/v/release/SilverAzide/Gadgets?logo=github&label=Click%20here%20to%20download&color=blueviolet&style=for-the-badge)](https://github.com/SilverAzide/Gadgets/releases/download/v7.7.0/Gadgets_7.7.0.rmskin)
+[![Click here to download](https://img.shields.io/github/v/release/SilverAzide/Gadgets?logo=github&label=Click%20here%20to%20download&color=blueviolet&style=for-the-badge)](https://github.com/SilverAzide/Gadgets/releases/download/v7.8.0/Gadgets_7.8.0.rmskin)
 
 <!-- markdownlint-disable-next-line MD001 -->
 ###### Get help on the Rainmeter forums
@@ -163,16 +163,16 @@ A precision network monitor with all the features of Network Meter, plus:
 
 ![space](https://github.com/SilverAzide/Gadgets/wiki/Images/Spacer.png) ![Weather Meter](https://github.com/SilverAzide/Gadgets/wiki/Images/Weather-Meter.png)
 
-* Displays the current weather for any location from [The Weather Channel](http://www.weather.com/). _Does NOT use the deprecated Wxdata feed_.
+* Displays the current weather for any location from [The Weather Channel](http://www.weather.com/).
 * Displays data in metric or imperial units.
 * Shows current temperature, forecast high and low temperatures, "feels like" temperature, current conditions, current location and station, humidity, visibility, barometric pressure, wind speed, wind direction, UV index, and chance of precipitation.
 * Shows current sunrise and sunset times, day length, and sun dial.
 * Shows current moonrise and moonset times, moon phase and description, and moon dial.
 * Shows moon zenith angle (tilt) and percentage illumination.**\***
-* Shows complete 5 day forecast in a "flyout" window.
+* Shows complete 5-day forecast in a "flyout" window when weather icon is clicked.
+* Opens 12-hour forecast when current temperature is clicked.**\***
 * Shows severe weather alerts for the current location.**\***
 * Opens weather radar map for the observation location when location name is clicked.**\***
-* Opens 12-Hour Forecast when current temperature is clicked.**\***
 * Optional space-saving compact mode; gadget expands to full size on mouseover.
 * Includes additional language translations: Bulgarian, Catalan, Czech, Dutch, English, Finnish, French, German, Hebrew, Hungarian, Italian, Korean, Polish, Portuguese, Romanian, Russian, Serbian (SP), Slovak, Spanish (SP), Swedish, Ukrainian ([info](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Change-the-default-language-or-temperature-units-of-the-Weather-Meter#how-to-change-the-default-language-or-temperature-units-of-the-weather-meter), source [here](http://fav.me/d2ylush)).
 * Supports having multiple Weather Meters to allow monitoring more than one location ([info](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-Weather-Meter-to-show-multiple-locations#how-to-configure-the-weather-meter-to-show-multiple-locations)).
@@ -230,4 +230,4 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-
 
 ---
 [![GitHub All Releases](https://img.shields.io/github/downloads/SilverAzide/Gadgets/total?logo=github&color=blue&style=for-the-badge)](https://github.com/SilverAzide/Gadgets/releases)
-[![DeviantArt All Releases](https://img.shields.io/badge/dynamic/json?logo=deviantart&label=Downloads&color=05cc47&style=for-the-badge&query=%24.community.statistics._attributes.downloads&url=https%3A%2F%2Fbackend.deviantart.com%2Foembed%3Furl%3Dhttps%253A%252F%252Fwww.deviantart.com%252Fsilverazide2%252Fart%252FGadgets-7-7-0-860144257%26format%3Djson)](https://www.deviantart.com/silverazide2/art/Gadgets-7-7-0-860144257)
+[![DeviantArt All Releases](https://img.shields.io/badge/dynamic/json?logo=deviantart&label=Downloads&color=05cc47&style=for-the-badge&query=%24.community.statistics._attributes.downloads&url=https%3A%2F%2Fbackend.deviantart.com%2Foembed%3Furl%3Dhttps%253A%252F%252Fwww.deviantart.com%252Fsilverazide2%252Fart%252FGadgets-7-8-0-860144257%26format%3Djson)](https://www.deviantart.com/silverazide2/art/Gadgets-7-8-0-860144257)
