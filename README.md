@@ -9,7 +9,7 @@ Arguably, some of the best and most popular Vista and Windows 7 Gadgets for syst
 
 In 2015, I discovered Rainmeter, a free and open-source platform that enables creating skins that run on the Windows desktop. I re-imagined the most widely used AddGadgets.com gadgets in a new suite named Rainmeter Gadgets.
 
-[![Click here to download](https://img.shields.io/github/v/release/SilverAzide/Gadgets?logo=github&label=Click%20here%20to%20download&color=blueviolet&style=for-the-badge)](https://github.com/SilverAzide/Gadgets/releases/download/v7.8.0/Gadgets_7.8.0.rmskin)
+[![Click here to download](https://img.shields.io/github/v/release/SilverAzide/Gadgets?logo=github&label=Click%20here%20to%20download&color=blueviolet&style=for-the-badge)](https://github.com/SilverAzide/Gadgets/releases/download/v7.9.0/Gadgets_7.9.0.rmskin)
 
 <!-- markdownlint-disable-next-line MD001 -->
 ###### Get help on the Rainmeter forums
@@ -199,7 +199,7 @@ A precision network monitor with all the features of Network Meter, plus:
 ## Requirements
 
 <!-- markdownlint-disable MD033 -->
-[Rainmeter 4.5.16 or later](https://www.rainmeter.net).<br>
+[Rainmeter 4.5.21 or later](https://www.rainmeter.net).<br>
 [.NET Framework 4.8 or later](https://dotnet.microsoft.com/download/dotnet-framework/net48).<br>
 GPU Meter, HWiNFO Meter, and UPS Meter require [HWiNFO 7.02 or later](https://www.hwinfo.com).<br>
 Top GPU Meter requires Windows 10 Fall Creator's Update (v1709) or later.
@@ -230,4 +230,4 @@ Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International ([CC BY-
 
 ---
 [![GitHub All Releases](https://img.shields.io/github/downloads/SilverAzide/Gadgets/total?logo=github&color=blue&style=for-the-badge)](https://github.com/SilverAzide/Gadgets/releases)
-[![DeviantArt All Releases](https://img.shields.io/badge/dynamic/json?logo=deviantart&label=Downloads&color=05cc47&style=for-the-badge&query=%24.community.statistics._attributes.downloads&url=https%3A%2F%2Fbackend.deviantart.com%2Foembed%3Furl%3Dhttps%253A%252F%252Fwww.deviantart.com%252Fsilverazide2%252Fart%252FGadgets-7-8-0-860144257%26format%3Djson)](https://www.deviantart.com/silverazide2/art/Gadgets-7-8-0-860144257)
+[![DeviantArt All Releases](https://img.shields.io/badge/dynamic/json?logo=deviantart&label=Downloads&color=05cc47&style=for-the-badge&query=%24.community.statistics._attributes.downloads&url=https%3A%2F%2Fbackend.deviantart.com%2Foembed%3Furl%3Dhttps%253A%252F%252Fwww.deviantart.com%252Fsilverazide2%252Fart%252FGadgets-7-9-0-860144257%26format%3Djson)](https://www.deviantart.com/silverazide2/art/Gadgets-7-9-0-860144257)
