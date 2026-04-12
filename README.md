@@ -28,8 +28,8 @@ In 2015, I discovered Rainmeter, a free and open-source platform that enables cr
 * Shows used, free, and total RAM available (per CPU or NUMA node if applicable).
 * Shows memory composition breakdown (optional).
 * Shows used, free, and total page file available (optional).
-* Shows core temperatures (optional, requires [CoreTemp](http://www.alcpu.com/CoreTemp/), [SpeedFan](http://www.almico.com/speedfan.php), or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-core-temperatures#how-to-configure-the-all-cpu-meter-to-show-core-temperatures)).
-* Shows CPU fan speed (optional, requires [SpeedFan](http://www.almico.com/speedfan.php) or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-fan-usage#how-to-configure-the-all-cpu-meter-to-show-fan-usage)).**\***
+* Shows core temperatures (optional, requires [CoreTemp](http://www.alcpu.com/CoreTemp/) or [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-core-temperatures#how-to-configure-the-all-cpu-meter-to-show-core-temperatures)).
+* Shows CPU fan speed (optional, requires [HWiNFO](http://www.hwinfo.com); more info [here](https://github.com/SilverAzide/Gadgets/wiki/HOW-TO-Configure-the-All-CPU-Meter-to-show-fan-usage#how-to-configure-the-all-cpu-meter-to-show-fan-usage)).**\***
 * Displays graphical line chart of CPU utilization, with RAM and page file percent usage (optional).
 * Shows from 1 to 5 top processes by CPU usage (optional).
 * Shows Task Manager or Resource Monitor when gadget is double-clicked.
@@ -206,7 +206,7 @@ Top GPU Meter requires Windows 10 Fall Creator's Update (v1709) or later.
 
 **Optional**<br>
 <!-- markdownlint-enable MD033 -->
-CPU Meter can use either [HWiNFO 7.02 or later](https://www.hwinfo.com), [CoreTemp](https://www.alcpu.com/CoreTemp/) or [SpeedFan](http://www.almico.com/speedfan.php) to report temperatures and/or fan speeds.
+CPU Meter can use either [HWiNFO 7.02 or later](https://www.hwinfo.com) or [CoreTemp](https://www.alcpu.com/CoreTemp/) to report temperatures and/or fan speeds.
 
 ## Attribution
 
